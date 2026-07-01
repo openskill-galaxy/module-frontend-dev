@@ -22,7 +22,7 @@ async function load(name) {
   }
 }
 
-console.log("\n=== Validate Static Data (module-python-basic) ===\n");
+console.log("\n=== Validate Static Data (module-frontend-dev) ===\n");
 console.log("--- File Existence & JSON Parse ---");
 const courses = await load("courses");
 const lessons = await load("lessons");
@@ -58,54 +58,130 @@ checkIds("tags", tags);
 console.log("\n--- Reference Integrity ---");
 if (courses && lessons) {
   const courseIds = new Set(courses.map((c) => c.id));
-  let bad = 0;
-  for (const l of lessons) if (!courseIds.has(l.courseId)) { bad++; fail(`lesson ${l.id} courseId ${l.courseId} not found`); }
-  if (bad === 0) ok("lessons.courseId all valid");
+  const lessonCourseIds = new Set(lessons.map((l) => l.courseId));
+  const orphanLessons = [...lessonCourseIds].filter((id) => !courseIds.has(id));
+  if (orphanLessons.length === 0) ok("All lessons reference valid courseIds");
+  else fail(`${orphanLessons.length} lessons reference non-existent courseIds`);
+}
+
+if (courses && lessons) {
+  // Check courses.lessonIds reference valid lessons
   const lessonIds = new Set(lessons.map((l) => l.id));
-  bad = 0;
-  for (const c of courses) for (const lid of c.lessons || []) if (!lessonIds.has(lid)) bad++;
-  if (bad === 0) ok("courses.lessons all valid");
-}
-if (lessons && kps) {
-  const kpIds = new Set(kps.map((k) => k.id));
-  let bad = 0;
-  for (const l of lessons) for (const k of l.knowledgePoints || []) if (!kpIds.has(k)) bad++;
-  if (bad === 0) ok("lessons.knowledgePoints all valid");
-}
-if (questions && exams) {
-  const qIds = new Set(questions.map((q) => q.id));
-  let bad = 0;
-  for (const e of exams) for (const q of e.questionIds || []) if (!qIds.has(q)) bad++;
-  if (bad === 0) ok("exams.questionIds all valid");
-}
-if (questions && cases) {
-  const qIds = new Set(questions.map((q) => q.id));
-  let bad = 0;
-  for (const c of cases) for (const k of c.knowledgePoints || []) { /* kp ref */ }
-  // cases.knowledgePoints 是 kp id
-  if (kps) {
-    const kpIds = new Set(kps.map((k) => k.id));
-    bad = 0;
-    for (const c of cases) for (const k of c.knowledgePoints || []) if (!kpIds.has(k)) bad++;
-    if (bad === 0) ok("cases.knowledgePoints all valid");
+  let totalRefs = 0;
+  let badRefs = 0;
+  for (const c of courses) {
+    if (c.lessonIds) {
+      for (const lid of c.lessonIds) {
+        totalRefs++;
+        if (!lessonIds.has(lid)) badRefs++;
+      }
+    }
   }
+  if (badRefs === 0) ok(`All ${totalRefs} course.lessonIds references are valid`);
+  else fail(`${badRefs}/${totalRefs} course.lessonIds references are invalid`);
 }
-if (kps && questions) {
+
+if (lessons) {
+  let hasPracticeQs = 0;
+  let totalPracticeQs = 0;
+  for (const l of lessons) {
+    if (l.practiceQuestionIds && l.practiceQuestionIds.length > 0) {
+      hasPracticeQs++;
+      totalPracticeQs += l.practiceQuestionIds.length;
+    }
+  }
+  ok(`${hasPracticeQs}/${lessons.length} lessons have practiceQuestionIds (${totalPracticeQs} total)`);
+}
+
+if (questions) {
+  // Check questions have required fields
+  let missingFields = 0;
+  const requiredFields = ["id", "type", "difficulty", "chapter", "knowledge_points", "stem", "options", "answer", "explanation", "wrong_reason", "tags", "estimated_time", "source_type"];
+  for (const q of questions) {
+    for (const f of requiredFields) {
+      if (q[f] === undefined) {
+        missingFields++;
+        break;
+      }
+    }
+  }
+  if (missingFields === 0) ok(`All ${questions.length} questions have required fields`);
+  else fail(`${missingFields} questions missing required fields`);
+  // Check source_type
+  const nonCurated = questions.filter(q => q.source_type !== "curated-generated");
+  if (nonCurated.length === 0) ok(`All questions use source_type: curated-generated`);
+  else fail(`${nonCurated.length} questions do not use curated-generated`);
+}
+
+if (exams && questions) {
   const qIds = new Set(questions.map((q) => q.id));
-  let bad = 0;
-  for (const k of kps) for (const r of k.relatedQuestions || []) if (!qIds.has(r)) bad++;
-  if (bad === 0) ok("knowledge-points.relatedQuestions all valid");
+  let examQTotal = 0;
+  let examQBad = 0;
+  for (const e of exams) {
+    if (e.questionIds) {
+      for (const qid of e.questionIds) {
+        examQTotal++;
+        if (!qIds.has(qid)) examQBad++;
+      }
+    }
+  }
+  if (examQBad === 0) ok(`All ${examQTotal} exam.questionIds references are valid`);
+  else fail(`${examQBad}/${examQTotal} exam.questionIds references are invalid`);
+}
+
+if (cases && questions) {
+  const qIds = new Set(questions.map((q) => q.id));
+  let caseQTotal = 0;
+  let caseQBad = 0;
+  for (const c of cases) {
+    if (c.relatedQuestionIds) {
+      for (const qid of c.relatedQuestionIds) {
+        caseQTotal++;
+        if (!qIds.has(qid)) caseQBad++;
+      }
+    }
+  }
+  if (caseQBad === 0) ok(`All ${caseQTotal} case.relatedQuestionIds references are valid`);
+  else fail(`${caseQBad}/${caseQTotal} case.relatedQuestionIds references are invalid`);
 }
 
 console.log("\n--- Search Index ---");
-if (searchIdx && Array.isArray(searchIdx)) ok(`search-index.json: ${searchIdx.length} entries`);
-else if (searchIdx && typeof searchIdx === "object") ok("search-index.json present");
-else fail("search-index.json missing or invalid");
-
-console.log("\n========================================");
-if (errors.length === 0) {
-  console.log("✅ VALIDATION PASSED");
+if (searchIdx) {
+  ok(`search-index.json exists with ${searchIdx.length} entries`);
+  const hasAllTypes = searchIdx.some(e => e.type === "lesson") &&
+    searchIdx.some(e => e.type === "question") &&
+    searchIdx.some(e => e.type === "glossary") &&
+    searchIdx.some(e => e.type === "faq");
+  if (hasAllTypes) ok("search-index covers all content types");
+  else fail("search-index missing some content types");
 } else {
-  console.log(`❌ VALIDATION FAILED (${errors.length} errors)`);
+  fail("search-index.json is missing");
+}
+
+console.log("\n--- Data Scale ---");
+const checks = [
+  ["courses", courses, 14],
+  ["lessons", lessons, 180],
+  ["knowledge-points", kps, 800],
+  ["questions", questions, 3000],
+  ["exams", exams, 80],
+  ["cases", cases, 240],
+  ["routes", routes, 30],
+  ["tags", tags, 350],
+  ["glossary", glossary, 350],
+  ["faqs", faqs, 200],
+];
+for (const [name, data, min] of checks) {
+  if (data && data.length >= min) ok(`${name}: ${data.length} >= ${min}`);
+  else if (data) fail(`${name}: ${data.length} < ${min}`);
+  else fail(`${name}: could not load`);
+}
+
+console.log("\n" + "=".repeat(50));
+if (errors.length === 0) {
+  console.log("✅ All validation checks passed!\n");
+  process.exit(0);
+} else {
+  console.log(`❌ ${errors.length} validation error(s) found.\n`);
   process.exit(1);
 }

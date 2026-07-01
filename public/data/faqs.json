@@ -1,1 +1,2052 @@
-[]
+[
+  {
+    "id": "fe-faq-001",
+    "question": "前端开发需要学习哪些技术？",
+    "answer": "前端开发需要学习HTML、CSS、JavaScript三大基础技术，以及React/Vue等框架、构建工具、版本控制等工程化技能。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-002",
+    "question": "HTML和HTML5有什么区别？",
+    "answer": "HTML5是HTML的最新版本，新增了语义化标签、表单类型、多媒体元素（video/audio）和Canvas等API。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-003",
+    "question": "CSS中id和class有什么区别？",
+    "answer": "id在页面中唯一，使用#选择；class可以重复使用，使用.选择。id优先级高于class。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-004",
+    "question": "px、em、rem有什么区别？",
+    "answer": "px是绝对单位，em相对于父元素字体大小，rem相对于根元素字体大小。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-005",
+    "question": "什么是盒模型？",
+    "answer": "盒模型是CSS中每个元素由内容区、内边距、边框和外边距组成的模型。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-006",
+    "question": "怎么水平垂直居中一个元素？",
+    "answer": "可以使用Flex布局：display:flex; justify-content:center; align-items:center; 或者Grid、定位等方式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-007",
+    "question": "position属性的值有哪些？",
+    "answer": "static（默认）、relative（相对定位）、absolute（绝对定位）、fixed（固定定位）、sticky（粘性定位）。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-008",
+    "question": "Flex和Grid分别适用于什么场景？",
+    "answer": "Flex适用于一维布局（行或列），Grid适用于二维布局（行和列同时控制）。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-009",
+    "question": "什么是响应式设计？",
+    "answer": "响应式设计是让网页在不同设备（桌面、平板、手机）上都能良好显示的设计方法。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-010",
+    "question": "移动优先和桌面优先的区别？",
+    "answer": "移动优先先写移动端样式再用min-width增强；桌面优先先写桌面端样式再用max-width降级。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-011",
+    "question": "let和var有什么不同？",
+    "answer": "let有块级作用域，没有变量提升；var有函数作用域，有变量提升。推荐使用let。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-012",
+    "question": "const声明的变量能修改吗？",
+    "answer": "const声明的变量不能重新赋值，但如果是对象或数组，其内部属性可以修改。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-013",
+    "question": "==和===有什么区别？",
+    "answer": "==比较值时会进行类型转换；===比较值和类型，不进行类型转换。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-014",
+    "question": "什么是闭包？",
+    "answer": "闭包是函数与其词法环境的组合，使函数能访问外部函数的变量。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-015",
+    "question": "箭头函数和普通函数的区别？",
+    "answer": "箭头函数不绑定this，没有arguments对象，不能作为构造函数。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-016",
+    "question": "map和forEach的区别？",
+    "answer": "map返回新数组，forEach不返回。都需要遍历数组每个元素。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-017",
+    "question": "如何实现数组去重？",
+    "answer": "可以使用Set：[...new Set(arr)]，或filter配合indexOf。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-018",
+    "question": "什么是事件委托？",
+    "answer": "事件委托利用事件冒泡，在父元素上监听子元素的事件，减少事件监听器数量。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-019",
+    "question": "localStorage和sessionStorage的区别？",
+    "answer": "localStorage持久化存储，关闭浏览器不丢失；sessionStorage在关闭标签页后清除。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-020",
+    "question": "什么是Promise？",
+    "answer": "Promise是表示异步操作最终完成或失败的对象的JavaScript特性。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-021",
+    "question": "async/await怎么用？",
+    "answer": "async声明异步函数，内部使用await等待Promise结果，需要用try-catch处理错误。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-022",
+    "question": "什么是跨域？如何解决？",
+    "answer": "跨域是浏览器限制不同源的请求。解决方法有CORS、JSONP、代理服务器等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-023",
+    "question": "fetch怎么发送POST请求？",
+    "answer": "fetch需要配置method:POST、headers和body参数来发送POST请求。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-024",
+    "question": "什么是ES Module？",
+    "answer": "ES Module是ES6原生的模块系统，使用export和import关键字。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-025",
+    "question": "npm和npx有什么区别？",
+    "answer": "npm用于安装和管理包，npx用于直接执行包中的命令，无需全局安装。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-026",
+    "question": "vite和webpack有什么区别？",
+    "answer": "Vite开发服务器启动更快，使用原生ESM；Webpack配置更丰富但启动较慢。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-027",
+    "question": "什么是Git？核心命令有哪些？",
+    "answer": "Git是分布式版本控制系统。核心命令：init/add/commit/push/pull/branch/merge。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-028",
+    "question": "什么是GitHub Pages？",
+    "answer": "GitHub Pages是GitHub提供的静态网站托管服务，适合部署前端项目。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-029",
+    "question": "如何部署前端项目？",
+    "answer": "可以使用GitHub Pages、Vercel、Netlify等平台，自动从Git仓库部署。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-030",
+    "question": "什么是package.json？",
+    "answer": "package.json是项目的配置文件，包含名称、依赖、脚本等信息。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-031",
+    "question": "dependencies和devDependencies的区别？",
+    "answer": "dependencies是生产环境需要的依赖，devDependencies仅在开发时使用。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-032",
+    "question": "什么是CSS预处理器？",
+    "answer": "CSS预处理器扩展了CSS的功能，提供变量、嵌套、混合等特性，如Sass、Less。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-033",
+    "question": "什么是前端工程化？",
+    "answer": "前端工程化是通过工具和规范提高开发效率、代码质量和可维护性的实践。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-034",
+    "question": "TypeScript和JavaScript的区别？",
+    "answer": "TypeScript是JavaScript的超集，增加了静态类型检查，更适合大型项目。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-035",
+    "question": "什么是BEM命名规范？",
+    "answer": "BEM是Block-Element-Modifier的缩写，是一种CSS类名命名规范。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-036",
+    "question": "什么是Web安全？常见攻击有哪些？",
+    "answer": "Web安全是保护Web应用安全。常见攻击：XSS、CSRF、SQL注入、点击劫持等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-037",
+    "question": "什么是XSS攻击？",
+    "answer": "XSS是跨站脚本攻击，攻击者注入恶意脚本到页面中执行。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-038",
+    "question": "什么是CSRF攻击？",
+    "answer": "CSRF是跨站请求伪造，诱导用户在已登录的站点执行非自愿操作。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-039",
+    "question": "什么是HTTPS？",
+    "answer": "HTTPS是HTTP over SSL/TLS，在HTTP和TCP之间加入加密层。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-040",
+    "question": "什么是CDN？",
+    "answer": "CDN是内容分发网络，将资源部署在全球各地的服务器上加速用户访问。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-041",
+    "question": "什么是SPA？",
+    "answer": "SPA是单页面应用，所有功能在一个HTML页面中实现，通过JavaScript动态切换视图。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-042",
+    "question": "什么是SSR？",
+    "answer": "SSR是服务端渲染，在服务端生成HTML发送到客户端，利于SEO和首屏加载。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-043",
+    "question": "什么是PWA？",
+    "answer": "PWA是渐进式Web应用，通过Service Worker等技术提供类似原生应用的体验。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-044",
+    "question": "什么是DOM？",
+    "answer": "DOM是文档对象模型，浏览器将HTML解析为树形结构供JavaScript操作。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-045",
+    "question": "什么是事件循环？",
+    "answer": "事件循环是JavaScript处理异步操作的机制，包括微任务和宏任务队列。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-046",
+    "question": "什么是微任务和宏任务？",
+    "answer": "微任务（Promise/MutationObserver）优先级高于宏任务（setTimeout/setInterval）。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-047",
+    "question": "什么是虚拟DOM？",
+    "answer": "虚拟DOM是真实DOM的JavaScript对象表示，通过diff算法减少真实DOM操作。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-048",
+    "question": "什么是React？",
+    "answer": "React是Facebook开发的用于构建用户界面的JavaScript库。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-049",
+    "question": "什么是Vue？",
+    "answer": "Vue是渐进式JavaScript框架，适合构建用户界面和单页面应用。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-050",
+    "question": "什么是组件化开发？",
+    "answer": "组件化开发是将UI拆分为独立、可复用的组件进行开发的方法。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-051",
+    "question": "什么是状态管理？",
+    "answer": "状态管理是集中管理应用状态的方法，常用的有Redux、Vuex、Zustand等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-052",
+    "question": "什么是Hook？",
+    "answer": "Hook是React 16.8引入的函数组件中使用状态和生命周期特性的函数。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-053",
+    "question": "什么是JSX？",
+    "answer": "JSX是JavaScript的语法扩展，允许在JS中编写类似HTML的代码。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-054",
+    "question": "什么是Web Component？",
+    "answer": "Web Component是一组Web标准技术，用于创建可复用的自定义元素。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-055",
+    "question": "什么是前端性能优化？",
+    "answer": "前端性能优化是提升网页加载速度和交互响应速度的各种技术。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-056",
+    "question": "如何优化首屏加载速度？",
+    "answer": "减少关键资源大小、使用CDN、代码分割、懒加载、预加载等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-057",
+    "question": "什么是Lighthouse？",
+    "answer": "Lighthouse是Google的自动化审计工具，检查性能、可访问性、SEO等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-058",
+    "question": "什么是Web Vitals？",
+    "answer": "Web Vitals是Google衡量网页用户体验的核心指标集合。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-059",
+    "question": "什么是SEO？前端如何优化SEO？",
+    "answer": "SEO是搜索引擎优化。前端可通过语义化HTML、meta标签、结构化数据等优化。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-060",
+    "question": "什么是可访问性？",
+    "answer": "可访问性是确保残障人士（如视障、听障）也能使用网站的设计实践。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-061",
+    "question": "什么是ARIA？",
+    "answer": "ARIA是可访问的富互联网应用规范，提供额外的HTML属性增强可访问性。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-062",
+    "question": "什么是Polyfill？",
+    "answer": "Polyfill是为旧浏览器提供新特性功能的JavaScript代码。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-063",
+    "question": "什么是Source Map？",
+    "answer": "Source Map将编译压缩后的代码映射到原始源代码，方便调试。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-064",
+    "question": "什么是前端测试？",
+    "answer": "前端测试包括单元测试、组件测试、集成测试和端到端测试。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-065",
+    "question": "什么是Jest？",
+    "answer": "Jest是Facebook开发的JavaScript测试框架，适合React项目。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-066",
+    "question": "什么是Cypress？",
+    "answer": "Cypress是前端端到端测试框架，提供真实的浏览器运行环境。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-067",
+    "question": "什么是CI/CD？",
+    "answer": "CI/CD是持续集成和持续交付/部署的自动化流程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-068",
+    "question": "什么是GitHub Actions？",
+    "answer": "GitHub Actions是GitHub提供的自动化工作流平台，用于CI/CD等任务。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-069",
+    "question": "什么是Monorepo？",
+    "answer": "Monorepo是在一个仓库中管理多个项目或包的方式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-070",
+    "question": "什么是微前端？",
+    "answer": "微前端是将前端应用拆分为多个可独立开发、部署的小应用的架构模式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-071",
+    "question": "什么是低代码开发？",
+    "answer": "低代码开发通过可视化方式搭建应用，减少手写代码。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-072",
+    "question": "什么是WebAssembly？",
+    "answer": "WebAssembly是一种低级的二进制指令格式，在浏览器中以接近原生速度运行。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-073",
+    "question": "什么是Web Worker？",
+    "answer": "Web Worker允许在后台线程运行脚本，不影响主线程性能。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-074",
+    "question": "什么是WebSocket？",
+    "answer": "WebSocket是浏览器和服务器间的全双工通信协议，实现实时数据推送。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-075",
+    "question": "什么是GraphQL？",
+    "answer": "GraphQL是一种API查询语言，客户端可精确指定需要的数据。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-076",
+    "question": "什么是RESTful API？",
+    "answer": "RESTful API是一种遵循REST原则的API设计风格，使用HTTP方法操作资源。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-077",
+    "question": "什么是前端监控？",
+    "answer": "前端监控是收集和分析前端错误、性能数据、用户行为的实践。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-078",
+    "question": "什么是前端埋点？",
+    "answer": "前端埋点是在用户交互时上报数据的机制，用于分析和优化产品。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-079",
+    "question": "什么是A/B测试？",
+    "answer": "A/B测试是同时运行两个版本对比效果的实验方法。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-080",
+    "question": "什么是设计模式？",
+    "answer": "设计模式是经过验证的解决常见问题的可复用方案。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-081",
+    "question": "什么是响应式图片？",
+    "answer": "响应式图片根据设备屏幕尺寸和分辨率提供合适的图片。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-082",
+    "question": "什么是字体图标？",
+    "answer": "字体图标是以字体形式显示的图标，可任意缩放和变色。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-083",
+    "question": "什么是CSS动画？",
+    "answer": "CSS动画通过animation和transition属性在不使用JavaScript的情况下创建动画。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-084",
+    "question": "什么是Canvas？",
+    "answer": "Canvas是HTML5元素，通过JavaScript绘制2D图形和动画。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-085",
+    "question": "什么是SVG？",
+    "answer": "SVG是可缩放矢量图形，用XML描述的矢量图格式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-086",
+    "question": "什么是WebGL？",
+    "answer": "WebGL是浏览器中3D图形的JavaScript API。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-087",
+    "question": "什么是SVG和Canvas的区别？",
+    "answer": "SVG基于矢量适合图标和简单图形，Canvas基于像素适合游戏和复杂图形。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-088",
+    "question": "什么是前端路由？",
+    "answer": "前端路由是根据URL变化切换页面内容而不刷新页面的机制。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-089",
+    "question": "什么是Hash路由和History路由？",
+    "answer": "Hash路由使用#后的部分，History路由使用HTML5 History API。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-090",
+    "question": "什么是懒加载？",
+    "answer": "懒加载是延迟加载资源直到用户需要时（如图片进入视口）。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-091",
+    "question": "什么是预加载？",
+    "answer": "预加载是提前加载页面后续需要的资源。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-092",
+    "question": "什么是代码分割？",
+    "answer": "代码分割是将代码拆分为小块，按需加载减少首屏体积。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-093",
+    "question": "什么是Tree Shaking？",
+    "answer": "Tree Shaking是移除JavaScript中未使用代码的优化技术。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-094",
+    "question": "什么是浏览器缓存？",
+    "answer": "浏览器缓存是浏览器存储资源副本的策略，包括强缓存和协商缓存。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-095",
+    "question": "什么是Service Worker？",
+    "answer": "Service Worker是浏览器后台运行的脚本，可实现离线缓存和推送通知。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-096",
+    "question": "什么是Manifest.json？",
+    "answer": "Manifest.json是PWA的配置文件，定义应用名称、图标等元数据。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-097",
+    "question": "什么是Web App Manifest？",
+    "answer": "Web App Manifest是描述Web应用安装信息的JSON文件。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-098",
+    "question": "什么是移动端适配？",
+    "answer": "移动端适配是通过响应式或自适应设计使网站在移动设备上良好显示。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-099",
+    "question": "什么是1px问题？",
+    "answer": "1px问题是移动端高分辨率屏上CSS 1px显示过粗的问题，可用transform缩放解决。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-100",
+    "question": "什么是touch事件？",
+    "answer": "touch事件是移动端触摸操作的事件，包括touchstart/touchmove/touchend。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-101",
+    "question": "什么是3D变换？",
+    "answer": "3D变换通过CSS transform的translateZ/rotateX等属性实现三维效果。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-102",
+    "question": "什么是渐变？",
+    "answer": "渐变色是颜色平滑过渡的效果，CSS中用linear-gradient和radial-gradient实现。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-103",
+    "question": "什么是阴影？",
+    "answer": "阴影通过box-shadow和text-shadow属性为元素或文字添加阴影效果。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-104",
+    "question": "什么是滤镜？",
+    "answer": "滤镜通过CSS filter属性为元素添加模糊、亮度、对比度等效果。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-105",
+    "question": "什么是混合模式？",
+    "answer": "混合模式通过mix-blend-mode属性控制元素内容与背景的混合方式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-106",
+    "question": "什么是关键帧动画？",
+    "answer": "关键帧动画通过@keyframes定义动画序列中各阶段的状态。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-107",
+    "question": "什么是过渡动画？",
+    "answer": "过渡动画通过transition属性定义元素状态变化时的过渡效果。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-108",
+    "question": "什么是CSS变量？",
+    "answer": "CSS变量是通过--前缀定义的自定义属性，可在整个文档复用。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-109",
+    "question": "什么是calc函数？",
+    "answer": "calc函数在CSS中进行数值计算，支持加减乘除运算。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-110",
+    "question": "什么是clamp函数？",
+    "answer": "clamp函数限制值的范围，提供最小值、首选值和最大值。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-111",
+    "question": "什么是min/max函数？",
+    "answer": "min/max函数在CSS中取多个值中的最小/最大值。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-112",
+    "question": "什么是容器查询？",
+    "answer": "容器查询基于容器尺寸而非视口尺寸应用样式的新CSS特性。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-113",
+    "question": "什么是图层？",
+    "answer": "图层是浏览器渲染过程中的不同绘制层，通过transform等属性可提升为独立图层。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-114",
+    "question": "什么是重排和重绘？",
+    "answer": "重排是布局变化需要重新计算，重绘是样式变化不需要重新布局。重排开销更大。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-115",
+    "question": "什么是回流？",
+    "answer": "回流是浏览器窗口尺寸或元素位置变化导致重新布局的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-116",
+    "question": "什么是合成？",
+    "answer": "合成是将不同图层合并为最终显示画面的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-117",
+    "question": "什么是requestAnimationFrame？",
+    "answer": "requestAnimationFrame在下一次重绘前执行回调，用于创建流畅动画。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-118",
+    "question": "什么是debounce？",
+    "answer": "防抖是延迟执行直到操作停止的优化技术。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-119",
+    "question": "什么是throttle？",
+    "answer": "节流是限制函数在一定时间内最多执行一次的技术。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-120",
+    "question": "什么是柯里化？",
+    "answer": "柯里化是将接受多个参数的函数转换为接受单一参数的函数链。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-121",
+    "question": "什么是函数组合？",
+    "answer": "函数组合是将多个函数合并为一个函数的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-122",
+    "question": "什么是纯函数？",
+    "answer": "纯函数是相同输入总是相同输出且无副作用的函数。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-123",
+    "question": "什么是副作用？",
+    "answer": "副作用是函数执行过程中对外部状态或数据产生的任何影响。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-124",
+    "question": "什么是不可变性？",
+    "answer": "不可变性是数据一旦创建就不能被修改的原则。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-125",
+    "question": "什么是命令式编程？",
+    "answer": "命令式编程关注如何实现，逐步描述操作过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-126",
+    "question": "什么是声明式编程？",
+    "answer": "声明式编程关注做什么，描述期望的结果而非过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-127",
+    "question": "什么是函数式编程？",
+    "answer": "函数式编程以函数为核心，强调纯函数和不可变数据。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-128",
+    "question": "什么是面向对象编程？",
+    "answer": "面向对象编程以对象为核心，封装数据和操作。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-129",
+    "question": "什么是原型和原型链？",
+    "answer": "每个JS对象都有原型，原型链是实现继承的机制。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-130",
+    "question": "什么是new关键字？",
+    "answer": "new创建构造函数的实例，完成创建对象、设置原型、绑定this等步骤。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-131",
+    "question": "什么是instanceof？",
+    "answer": "instanceof检查对象是否是构造函数的实例。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-132",
+    "question": "什么是typeof？",
+    "answer": "typeof返回变量的数据类型字符串。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-133",
+    "question": "什么是NaN？",
+    "answer": "NaN表示非数字，但typeof NaN返回number。可用isNaN检测。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-134",
+    "question": "什么是弱类型？",
+    "answer": "JS是弱类型语言，变量类型可在运行时改变。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-135",
+    "question": "什么是动态类型？",
+    "answer": "JS是动态类型语言，变量的类型在运行时确定。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-136",
+    "question": "什么是变量提升？",
+    "answer": "变量提升是var声明的变量和函数声明被提升到作用域顶部的行为。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-137",
+    "question": "什么是暂时性死区？",
+    "answer": "暂时性死区是let/const声明前不能被访问的区域。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-138",
+    "question": "什么是严格模式？",
+    "answer": "严格模式通过'use strict'启用更严格的JS语法检查。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-139",
+    "question": "什么是memoization？",
+    "answer": "记忆化是缓存函数调用结果优化重复计算的优化技术。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-140",
+    "question": "什么是尾调用优化？",
+    "answer": "尾调用优化是函数最后一步调用另一个函数时节省栈空间的优化。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-141",
+    "question": "什么是迭代和递归？",
+    "answer": "迭代使用循环，递归是函数自调用。递归需有终止条件。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-142",
+    "question": "什么是分治算法？",
+    "answer": "分治算法将大问题分解为相似小问题递归解决。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-143",
+    "question": "什么是搜索算法？",
+    "answer": "搜索算法在数据集合中查找特定元素的方法，如线性搜索和二分搜索。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-144",
+    "question": "什么是排序算法？",
+    "answer": "排序算法将数据按特定顺序排列的方法，如冒泡、选择、插入等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-145",
+    "question": "什么是数据结构？",
+    "answer": "数据结构是组织和存储数据的方式，如数组、链表、栈、队列、树、图。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-146",
+    "question": "什么是栈？",
+    "answer": "栈是后进先出的数据结构，JS中调用栈就是栈结构。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-147",
+    "question": "什么是队列？",
+    "answer": "队列是先进先出的数据结构，事件循环中的任务队列就是队列结构。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-148",
+    "question": "什么是链表？",
+    "answer": "链表是由节点组成的线性数据结构，每个节点包含数据和指向下一个节点的引用。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-149",
+    "question": "什么是树？",
+    "answer": "树是层次结构的数据结构，DOM树就是树的例子。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-150",
+    "question": "什么是图？",
+    "answer": "图是节点和边的集合，用于表示网络关系。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-151",
+    "question": "什么是哈希表？",
+    "answer": "哈希表通过哈希函数将键映射到存储位置，提供快速插入和查找。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-152",
+    "question": "什么是时间复杂度？",
+    "answer": "时间复杂度是算法运行时间随输入规模增长的增长率。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-153",
+    "question": "什么是空间复杂度？",
+    "answer": "空间复杂度是算法运行所需额外内存空间随输入规模增长的增长率。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-154",
+    "question": "什么是大O表示法？",
+    "answer": "大O表示法描述算法时间或空间复杂度的上限。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-155",
+    "question": "什么是HTTP请求方法？",
+    "answer": "HTTP请求方法包括GET（获取）、POST（创建）、PUT（更新）、DELETE（删除）等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-156",
+    "question": "什么是HTTP状态码？",
+    "answer": "HTTP状态码表示请求的结果：200成功、301重定向、404未找到、500服务器错误等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-157",
+    "question": "什么是请求头？",
+    "answer": "请求头包含请求的元数据，如Content-Type、Authorization、User-Agent等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-158",
+    "question": "什么是响应头？",
+    "answer": "响应头包含响应的元数据，如Content-Type、Cache-Control、Set-Cookie等。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-159",
+    "question": "什么是TCP/IP？",
+    "answer": "TCP/IP是互联网的基础通信协议族。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-160",
+    "question": "什么是DNS？",
+    "answer": "DNS是域名系统，将域名转换为IP地址。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-161",
+    "question": "什么是IP地址？",
+    "answer": "IP地址是网络中设备的唯一标识。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-162",
+    "question": "什么是端口？",
+    "answer": "端口是通信的端点，HTTP默认80，HTTPS默认443。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-163",
+    "question": "什么是Web服务器？",
+    "answer": "Web服务器接收HTTP请求并返回HTTP响应的软件或硬件。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-164",
+    "question": "什么是Nginx？",
+    "answer": "Nginx是高性能的Web服务器和反向代理服务器。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-165",
+    "question": "什么是Vercel？",
+    "answer": "Vercel是前端部署平台，支持自动部署和Serverless Functions。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-166",
+    "question": "什么是Netlify？",
+    "answer": "Netlify是提供静态网站托管和Serverless功能的平台。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-167",
+    "question": "什么是云开发？",
+    "answer": "云开发是云上提供的一体化开发环境，包含计算、存储、数据库等服务。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-168",
+    "question": "什么是Serverless？",
+    "answer": "Serverless是无服务器架构，开发者专注业务逻辑不关心服务器。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-169",
+    "question": "什么是Edge Function？",
+    "answer": "Edge Function是在CDN边缘节点运行的函数，提供低延迟计算。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-170",
+    "question": "什么是前端架构？",
+    "answer": "前端架构是前端项目的组织方式和技术选型方案。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-171",
+    "question": "什么是设计系统？",
+    "answer": "设计系统是可复用的组件和设计准则的集合。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-172",
+    "question": "什么是组件库？",
+    "answer": "组件库是可复用的UI组件的集合，如Ant Design、Element UI。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-173",
+    "question": "什么是Storybook？",
+    "answer": "Storybook是组件开发和文档展示的工具。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-174",
+    "question": "什么是UI设计工具？",
+    "answer": "UI设计工具用于设计用户界面，如Figma、Sketch、Adobe XD。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-175",
+    "question": "什么是Figma？",
+    "answer": "Figma是基于浏览器的协作界面设计工具。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-176",
+    "question": "什么是设计稿到代码？",
+    "answer": "设计稿到代码是将设计稿精确实现为网页的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-177",
+    "question": "什么是像素级还原？",
+    "answer": "像素级还原是精确还原设计稿每一个像素的样式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-178",
+    "question": "什么是前端编码规范？",
+    "answer": "前端编码规范是团队一致的代码风格和命名约定。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-179",
+    "question": "什么是Code Review？",
+    "answer": "Code Review是审查代码质量、发现问题的协作流程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-180",
+    "question": "什么是重构？",
+    "answer": "重构是改进代码结构而不改变外部行为的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-181",
+    "question": "什么是技术债务？",
+    "answer": "技术债务是短期解决方案导致的长期维护成本。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-182",
+    "question": "什么是敏捷开发？",
+    "answer": "敏捷开发是迭代增量式开发方法，强调响应变化。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-183",
+    "question": "什么是Scrum？",
+    "answer": "Scrum是敏捷开发框架，包括Sprint、Standup、Retrospective等实践。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-184",
+    "question": "什么是看板？",
+    "answer": "看板是可视化工作流程的管理方法。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-185",
+    "question": "什么是Sprint？",
+    "answer": "Sprint是Scrum中固定时间周期（通常1-4周）的开发迭代。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-186",
+    "question": "什么是Standup Meeting？",
+    "answer": "Standup是每日站会，同步进度和问题。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-187",
+    "question": "什么是Retrospective？",
+    "answer": "Retrospective是Sprint结束后的回顾会议。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-188",
+    "question": "什么是需求分析？",
+    "answer": "需求分析是理解和明确项目功能和非功能需求的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-189",
+    "question": "什么是功能需求？",
+    "answer": "功能需求是系统必须实现的具体功能。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-190",
+    "question": "什么是非功能需求？",
+    "answer": "非功能需求是性能、安全、可用性等质量标准。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-191",
+    "question": "什么是用户故事？",
+    "answer": "用户故事是从用户角度描述功能需求的简短描述。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-192",
+    "question": "什么是验收标准？",
+    "answer": "验收标准是判断需求是否完成的明确条件。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-193",
+    "question": "什么是估算？",
+    "answer": "估算是预测开发任务所需时间和精力的过程。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-194",
+    "question": "什么是工时估算？",
+    "answer": "工时估算是预估开发任务需要的人时数。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-195",
+    "question": "什么是任务拆分？",
+    "answer": "任务拆分是将大功能拆分为可独立完成的小任务。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-196",
+    "question": "什么是产品经理？",
+    "answer": "产品经理负责产品的需求定义和方向决策。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-197",
+    "question": "什么是UI设计师？",
+    "answer": "UI设计师负责用户界面的视觉设计。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-198",
+    "question": "什么是UX设计师？",
+    "answer": "UX设计师负责用户整体体验的设计。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-199",
+    "question": "什么是前端团队成员？",
+    "answer": "前端团队通常包括前端开发、UI设计、UX设计等角色。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-200",
+    "question": "什么是跨职能团队？",
+    "answer": "跨职能团队包含不同专业角色的协作团队。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-201",
+    "question": "什么是远程协作？",
+    "answer": "远程协作是分布在不同地点的团队通过工具协同工作。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-202",
+    "question": "什么是异步沟通？",
+    "answer": "异步沟通是不要求实时回复的交流方式。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-203",
+    "question": "什么是代码规范？",
+    "answer": "代码规范是团队统一的代码风格和标准。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-204",
+    "question": "什么是API文档？",
+    "answer": "API文档描述接口的输入、输出和使用方法。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-faq-205",
+    "question": "什么是Swagger？",
+    "answer": "Swagger是RESTful API文档生成和测试工具。",
+    "category": "综合",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  }
+]

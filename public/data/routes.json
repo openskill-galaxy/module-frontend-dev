@@ -1,1 +1,2522 @@
-[]
+[
+  {
+    "id": "fe-route-01",
+    "slug": "7天前端入门",
+    "title": "7天前端入门",
+    "description": "7天前端入门：针对零基础初学者设计的7天学习路线。",
+    "summary": "7天前端入门：针对零基础初学者设计的7天学习路线。",
+    "targetUser": "零基础初学者",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-02",
+    "slug": "14天前端巩固",
+    "title": "14天前端巩固",
+    "description": "14天前端巩固：针对有少量编程经验者设计的14天学习路线。",
+    "summary": "14天前端巩固：针对有少量编程经验者设计的14天学习路线。",
+    "targetUser": "有少量编程经验者",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-03",
+    "slug": "30天前端系统学习",
+    "title": "30天前端系统学习",
+    "description": "30天前端系统学习：针对希望系统掌握的学习者设计的30天学习路线。",
+    "summary": "30天前端系统学习：针对希望系统掌握的学习者设计的30天学习路线。",
+    "targetUser": "希望系统掌握的学习者",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-04",
+    "slug": "45天前端进阶",
+    "title": "45天前端进阶",
+    "description": "45天前端进阶：针对有基础希望进阶设计的45天学习路线。",
+    "summary": "45天前端进阶：针对有基础希望进阶设计的45天学习路线。",
+    "targetUser": "有基础希望进阶",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-05",
+    "slug": "60天前端全栈",
+    "title": "60天前端全栈",
+    "description": "60天前端全栈：针对希望成为全栈开发者设计的60天学习路线。",
+    "summary": "60天前端全栈：针对希望成为全栈开发者设计的60天学习路线。",
+    "targetUser": "希望成为全栈开发者",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-06",
+    "slug": "90天前端大师之路",
+    "title": "90天前端大师之路",
+    "description": "90天前端大师之路：针对希望精通前端设计的90天学习路线。",
+    "summary": "90天前端大师之路：针对希望精通前端设计的90天学习路线。",
+    "targetUser": "希望精通前端",
+    "durationDays": 90,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-07",
+    "slug": "面试冲刺路线",
+    "title": "面试冲刺路线",
+    "description": "面试冲刺路线：针对准备前端面试设计的30天学习路线。",
+    "summary": "面试冲刺路线：针对准备前端面试设计的30天学习路线。",
+    "targetUser": "准备前端面试",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-08",
+    "slug": "HTML专项路线",
+    "title": "HTML专项路线",
+    "description": "HTML专项路线：针对希望夯实HTML基础设计的14天学习路线。",
+    "summary": "HTML专项路线：针对希望夯实HTML基础设计的14天学习路线。",
+    "targetUser": "希望夯实HTML基础",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-09",
+    "slug": "CSS专项路线",
+    "title": "CSS专项路线",
+    "description": "CSS专项路线：针对希望系统掌握CSS设计的21天学习路线。",
+    "summary": "CSS专项路线：针对希望系统掌握CSS设计的21天学习路线。",
+    "targetUser": "希望系统掌握CSS",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-10",
+    "slug": "JavaScript专项路线",
+    "title": "JavaScript专项路线",
+    "description": "JavaScript专项路线：针对希望精通JavaScript设计的30天学习路线。",
+    "summary": "JavaScript专项路线：针对希望精通JavaScript设计的30天学习路线。",
+    "targetUser": "希望精通JavaScript",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-11",
+    "slug": "DOM编程路线",
+    "title": "DOM编程路线",
+    "description": "DOM编程路线：针对希望掌握DOM操作设计的14天学习路线。",
+    "summary": "DOM编程路线：针对希望掌握DOM操作设计的14天学习路线。",
+    "targetUser": "希望掌握DOM操作",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-12",
+    "slug": "ES6+新特性路线",
+    "title": "ES6+新特性路线",
+    "description": "ES6+新特性路线：针对希望学习ES6+设计的14天学习路线。",
+    "summary": "ES6+新特性路线：针对希望学习ES6+设计的14天学习路线。",
+    "targetUser": "希望学习ES6+",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-13",
+    "slug": "前端工程化路线",
+    "title": "前端工程化路线",
+    "description": "前端工程化路线：针对希望学习工程化设计的21天学习路线。",
+    "summary": "前端工程化路线：针对希望学习工程化设计的21天学习路线。",
+    "targetUser": "希望学习工程化",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-14",
+    "slug": "Git协作路线",
+    "title": "Git协作路线",
+    "description": "Git协作路线：针对希望掌握Git设计的7天学习路线。",
+    "summary": "Git协作路线：针对希望掌握Git设计的7天学习路线。",
+    "targetUser": "希望掌握Git",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-15",
+    "slug": "项目实战路线",
+    "title": "项目实战路线",
+    "description": "项目实战路线：针对希望提升实战能力设计的45天学习路线。",
+    "summary": "项目实战路线：针对希望提升实战能力设计的45天学习路线。",
+    "targetUser": "希望提升实战能力",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-16",
+    "slug": "数据可视化路线",
+    "title": "数据可视化路线",
+    "description": "数据可视化路线：针对希望学习数据可视化设计的21天学习路线。",
+    "summary": "数据可视化路线：针对希望学习数据可视化设计的21天学习路线。",
+    "targetUser": "希望学习数据可视化",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-17",
+    "slug": "前端测试路线",
+    "title": "前端测试路线",
+    "description": "前端测试路线：针对希望学习前端测试设计的14天学习路线。",
+    "summary": "前端测试路线：针对希望学习前端测试设计的14天学习路线。",
+    "targetUser": "希望学习前端测试",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-18",
+    "slug": "性能优化路线",
+    "title": "性能优化路线",
+    "description": "性能优化路线：针对希望提升性能优化能力设计的14天学习路线。",
+    "summary": "性能优化路线：针对希望提升性能优化能力设计的14天学习路线。",
+    "targetUser": "希望提升性能优化能力",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-19",
+    "slug": "Web安全路线",
+    "title": "Web安全路线",
+    "description": "Web安全路线：针对希望学习Web安全设计的14天学习路线。",
+    "summary": "Web安全路线：针对希望学习Web安全设计的14天学习路线。",
+    "targetUser": "希望学习Web安全",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-20",
+    "slug": "前端设计模式路线",
+    "title": "前端设计模式路线",
+    "description": "前端设计模式路线：针对希望学习设计模式设计的14天学习路线。",
+    "summary": "前端设计模式路线：针对希望学习设计模式设计的14天学习路线。",
+    "targetUser": "希望学习设计模式",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-21",
+    "slug": "响应式设计路线",
+    "title": "响应式设计路线",
+    "description": "响应式设计路线：针对希望掌握响应式设计设计的10天学习路线。",
+    "summary": "响应式设计路线：针对希望掌握响应式设计设计的10天学习路线。",
+    "targetUser": "希望掌握响应式设计",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-22",
+    "slug": "Flex布局专项路线",
+    "title": "Flex布局专项路线",
+    "description": "Flex布局专项路线：针对希望精通Flex设计的7天学习路线。",
+    "summary": "Flex布局专项路线：针对希望精通Flex设计的7天学习路线。",
+    "targetUser": "希望精通Flex",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-23",
+    "slug": "Grid布局专项路线",
+    "title": "Grid布局专项路线",
+    "description": "Grid布局专项路线：针对希望精通Grid设计的7天学习路线。",
+    "summary": "Grid布局专项路线：针对希望精通Grid设计的7天学习路线。",
+    "targetUser": "希望精通Grid",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-24",
+    "slug": "表单与校验路线",
+    "title": "表单与校验路线",
+    "description": "表单与校验路线：针对希望掌握表单开发设计的10天学习路线。",
+    "summary": "表单与校验路线：针对希望掌握表单开发设计的10天学习路线。",
+    "targetUser": "希望掌握表单开发",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-25",
+    "slug": "前端动画路线",
+    "title": "前端动画路线",
+    "description": "前端动画路线：针对希望学习前端动画设计的14天学习路线。",
+    "summary": "前端动画路线：针对希望学习前端动画设计的14天学习路线。",
+    "targetUser": "希望学习前端动画",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-26",
+    "slug": "移动端适配路线",
+    "title": "移动端适配路线",
+    "description": "移动端适配路线：针对希望学习移动端开发设计的10天学习路线。",
+    "summary": "移动端适配路线：针对希望学习移动端开发设计的10天学习路线。",
+    "targetUser": "希望学习移动端开发",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-27",
+    "slug": "可访问性路线",
+    "title": "可访问性路线",
+    "description": "可访问性路线：针对希望学习a11y设计的7天学习路线。",
+    "summary": "可访问性路线：针对希望学习a11y设计的7天学习路线。",
+    "targetUser": "希望学习a11y",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-28",
+    "slug": "前端面试题路线",
+    "title": "前端面试题路线",
+    "description": "前端面试题路线：针对准备前端面试设计的21天学习路线。",
+    "summary": "前端面试题路线：针对准备前端面试设计的21天学习路线。",
+    "targetUser": "准备前端面试",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-29",
+    "slug": "组件化开发路线",
+    "title": "组件化开发路线",
+    "description": "组件化开发路线：针对希望学习组件化设计的14天学习路线。",
+    "summary": "组件化开发路线：针对希望学习组件化设计的14天学习路线。",
+    "targetUser": "希望学习组件化",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-30",
+    "slug": "Node.js与前端路线",
+    "title": "Node.js与前端路线",
+    "description": "Node.js与前端路线：针对希望学习Node.js设计的14天学习路线。",
+    "summary": "Node.js与前端路线：针对希望学习Node.js设计的14天学习路线。",
+    "targetUser": "希望学习Node.js",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-31",
+    "slug": "SSR与SSG路线",
+    "title": "SSR与SSG路线",
+    "description": "SSR与SSG路线：针对希望学习SSR/SSG设计的14天学习路线。",
+    "summary": "SSR与SSG路线：针对希望学习SSR/SSG设计的14天学习路线。",
+    "targetUser": "希望学习SSR/SSG",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-32",
+    "slug": "前端架构路线",
+    "title": "前端架构路线",
+    "description": "前端架构路线：针对希望学习前端架构设计的30天学习路线。",
+    "summary": "前端架构路线：针对希望学习前端架构设计的30天学习路线。",
+    "targetUser": "希望学习前端架构",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-33",
+    "slug": "全栈开发路线",
+    "title": "全栈开发路线",
+    "description": "全栈开发路线：针对希望成为全栈开发者设计的60天学习路线。",
+    "summary": "全栈开发路线：针对希望成为全栈开发者设计的60天学习路线。",
+    "targetUser": "希望成为全栈开发者",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-34",
+    "slug": "前端产品思维路线",
+    "title": "前端产品思维路线",
+    "description": "前端产品思维路线：针对希望培养产品思维设计的14天学习路线。",
+    "summary": "前端产品思维路线：针对希望培养产品思维设计的14天学习路线。",
+    "targetUser": "希望培养产品思维",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  },
+  {
+    "id": "fe-route-35",
+    "slug": "前端开源路线",
+    "title": "前端开源路线",
+    "description": "前端开源路线：针对希望参与开源项目设计的21天学习路线。",
+    "summary": "前端开源路线：针对希望参与开源项目设计的21天学习路线。",
+    "targetUser": "希望参与开源项目",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习：前端开发入门与学习路线",
+        "courseId": "fe-course-01",
+        "lessonId": "fe-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习：HTML 基础与语义化",
+        "courseId": "fe-course-02",
+        "lessonId": "fe-lesson-011"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习：CSS 基础与盒模型",
+        "courseId": "fe-course-03",
+        "lessonId": "fe-lesson-025"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习：Flex 布局与 Grid 布局",
+        "courseId": "fe-course-04",
+        "lessonId": "fe-lesson-039"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习：响应式网页设计",
+        "courseId": "fe-course-05",
+        "lessonId": "fe-lesson-051"
+      }
+    ],
+    "recommendedCourseIds": [
+      "fe-course-01",
+      "fe-course-02",
+      "fe-course-03",
+      "fe-course-04",
+      "fe-course-05"
+    ],
+    "recommendedLessonIds": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成项目",
+      "理解最佳实践",
+      "具备工程能力"
+    ]
+  }
+]

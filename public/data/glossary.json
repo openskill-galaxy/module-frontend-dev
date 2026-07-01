@@ -1,1 +1,3522 @@
-[]
+[
+  {
+    "id": "fe-glossary-001",
+    "term": "HTML",
+    "definition": "超文本标记语言，用于创建网页结构和内容",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-002",
+    "term": "CSS",
+    "definition": "层叠样式表，用于控制网页的样式和布局",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-003",
+    "term": "JavaScript",
+    "definition": "一种动态脚本语言，用于实现网页交互功能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-004",
+    "term": "DOM",
+    "definition": "文档对象模型，HTML文档的树形结构表示",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-005",
+    "term": "BOM",
+    "definition": "浏览器对象模型，浏览器提供的编程接口",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-006",
+    "term": "API",
+    "definition": "应用程序编程接口，用于软件组件之间的通信",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-007",
+    "term": "JSON",
+    "definition": "JavaScript对象表示法，轻量级数据交换格式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-008",
+    "term": "AJAX",
+    "definition": "异步JavaScript和XML，无需刷新页面即可与服务器通信",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-009",
+    "term": "URL",
+    "definition": "统一资源定位符，用于定位网络资源",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-010",
+    "term": "HTTP",
+    "definition": "超文本传输协议，客户端和服务器之间的通信协议",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-011",
+    "term": "HTTPS",
+    "definition": "安全的超文本传输协议，使用TLS/SSL加密",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-012",
+    "term": "CDN",
+    "definition": "内容分发网络，将资源分布在全球服务器上",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-013",
+    "term": "SEO",
+    "definition": "搜索引擎优化，提高网站在搜索结果中的排名",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-014",
+    "term": "UI",
+    "definition": "用户界面，用户与软件交互的界面",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-015",
+    "term": "UX",
+    "definition": "用户体验，用户使用产品的整体体验",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-016",
+    "term": "IDE",
+    "definition": "集成开发环境，包含代码编辑、调试等功能的软件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-017",
+    "term": "CLI",
+    "definition": "命令行界面，通过文本命令与计算机交互",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-018",
+    "term": "API文档",
+    "definition": "描述API接口功能和用法的文档",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-019",
+    "term": "框架",
+    "definition": "为应用程序开发提供基础结构的软件平台",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-020",
+    "term": "库",
+    "definition": "可重用的函数和类集合",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-021",
+    "term": "包管理器",
+    "definition": "用于安装、更新和管理软件包的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-022",
+    "term": "模块",
+    "definition": "独立的代码单元，可导入和导出",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-023",
+    "term": "组件",
+    "definition": "可复用的独立UI单元",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-024",
+    "term": "状态管理",
+    "definition": "管理应用程序状态的技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-025",
+    "term": "路由",
+    "definition": "根据URL路径决定页面内容的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-026",
+    "term": "中间件",
+    "definition": "在请求和响应之间执行的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-027",
+    "term": "Hook",
+    "definition": "React等框架中用于复用状态逻辑的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-028",
+    "term": "Prop",
+    "definition": "React中组件间传递的属性",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-029",
+    "term": "单向数据流",
+    "definition": "数据从父组件向子组件流动的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-030",
+    "term": "虚拟DOM",
+    "definition": "内存中的DOM表示，用于优化渲染性能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-031",
+    "term": "SPA",
+    "definition": "单页面应用，单个HTML页面动态切换内容",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-032",
+    "term": "SSR",
+    "definition": "服务端渲染，在服务端生成HTML",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-033",
+    "term": "SSG",
+    "definition": "静态站点生成，构建时生成HTML",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-034",
+    "term": "PWA",
+    "definition": "渐进式Web应用，提供类似原生应用的体验",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-035",
+    "term": "WebSocket",
+    "definition": "全双工通信协议，实现实时通信",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-036",
+    "term": "RESTful",
+    "definition": "一种API设计风格，使用HTTP方法操作资源",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-037",
+    "term": "GraphQL",
+    "definition": "一种API查询语言，客户端可指定需要的数据",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-038",
+    "term": "CI/CD",
+    "definition": "持续集成和持续交付/部署",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-039",
+    "term": "Git",
+    "definition": "分布式版本控制系统",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-040",
+    "term": "GitHub",
+    "definition": "基于Git的代码托管平台",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-041",
+    "term": "npm",
+    "definition": "Node.js的包管理器和注册表",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-042",
+    "term": "npx",
+    "definition": "执行npm包中的命令工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-043",
+    "term": "Node.js",
+    "definition": "基于Chrome V8引擎的JavaScript运行时",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-044",
+    "term": "Vite",
+    "definition": "新一代前端构建工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-045",
+    "term": "Webpack",
+    "definition": "模块打包工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-046",
+    "term": "Babel",
+    "definition": "JavaScript编译器，将ES6+代码转为兼容版本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-047",
+    "term": "ESLint",
+    "definition": "代码静态分析工具，检查错误和风格",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-048",
+    "term": "Prettier",
+    "definition": "代码格式化工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-049",
+    "term": "TypeScript",
+    "definition": "JavaScript的超集，提供静态类型检查",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-050",
+    "term": "Sass/SCSS",
+    "definition": "CSS预处理器，提供变量、嵌套等特性",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-051",
+    "term": "Less",
+    "definition": "CSS预处理器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-052",
+    "term": "PostCSS",
+    "definition": "用JS插件处理CSS的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-053",
+    "term": "Tailwind CSS",
+    "definition": "原子化CSS框架，实用优先",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-054",
+    "term": "Bootstrap",
+    "definition": "流行的CSS框架，提供响应式组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-055",
+    "term": "Flexbox",
+    "definition": "一维布局模型，灵活排列项目",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-056",
+    "term": "CSS Grid",
+    "definition": "二维布局系统，同时控制行和列",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-057",
+    "term": "媒体查询",
+    "definition": "CSS特性，根据设备特征应用不同的样式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-058",
+    "term": "响应式设计",
+    "definition": "使网页在不同设备上都能良好显示的设计方法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-059",
+    "term": "语义化HTML",
+    "definition": "使用含义明确标签的HTML编写方式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-060",
+    "term": "可访问性",
+    "definition": "确保残障人士也能使用网页",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-061",
+    "term": "盒模型",
+    "definition": "CSS中每个元素由content/padding/border/margin组成",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-062",
+    "term": "选择器",
+    "definition": "CSS中用于选择HTML元素的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-063",
+    "term": "伪类",
+    "definition": "基于元素状态进行选择的关键字",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-064",
+    "term": "伪元素",
+    "definition": "创建不在DOM中的虚拟元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-065",
+    "term": "变量提升",
+    "definition": "JavaScript中变量和函数声明被提升到作用域顶部的行为",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-066",
+    "term": "闭包",
+    "definition": "函数与其词法环境的组合",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-067",
+    "term": "原型链",
+    "definition": "JavaScript中实现继承的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-068",
+    "term": "事件循环",
+    "definition": "JavaScript处理异步事件的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-069",
+    "term": "Promise",
+    "definition": "表示异步操作最终完成或失败的对象",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-070",
+    "term": "async/await",
+    "definition": "处理异步操作的语法糖",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-071",
+    "term": "async函数",
+    "definition": "返回Promise的异步函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-072",
+    "term": "箭头函数",
+    "definition": "简洁的函数语法，不绑定自己的this",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-073",
+    "term": "解构赋值",
+    "definition": "从数组/对象中提取值的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-074",
+    "term": "展开运算符",
+    "definition": "将数组/对象展开为元素的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-075",
+    "term": "模板字符串",
+    "definition": "支持插值和换行的字符串语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-076",
+    "term": "类",
+    "definition": "ES6引入的面向对象编程语法糖",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-077",
+    "term": "继承",
+    "definition": "一个类获取另一个类的属性和方法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-078",
+    "term": "模块化",
+    "definition": "将代码拆分为独立模块的开发方式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-079",
+    "term": "ES Module",
+    "definition": "ES6原生的模块系统",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-080",
+    "term": "CommonJS",
+    "definition": "Node.js使用的模块系统",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-081",
+    "term": "树摇优化",
+    "definition": "移除未使用代码的优化技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-082",
+    "term": "代码分割",
+    "definition": "将代码拆分为小块按需加载",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-083",
+    "term": "懒加载",
+    "definition": "延迟加载资源直到需要时",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-084",
+    "term": "热更新",
+    "definition": "开发模式下代码修改即时反映",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-085",
+    "term": "sourcemap",
+    "definition": "将编译代码映射回源代码",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-086",
+    "term": "Polyfill",
+    "definition": "为旧浏览器补充新特性的代码",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-087",
+    "term": "浏览器渲染流程",
+    "definition": "浏览器将HTML/CSS/JS转为可见页面的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-088",
+    "term": "重绘",
+    "definition": "元素外观改变但不影响布局的渲染过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-089",
+    "term": "重排",
+    "definition": "元素位置或尺寸改变导致布局重新计算的渲染过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-090",
+    "term": "事件委托",
+    "definition": "利用事件冒泡在父元素处理子元素事件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-091",
+    "term": "事件冒泡",
+    "definition": "事件从目标元素向上传播到文档",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-092",
+    "term": "事件捕获",
+    "definition": "事件从文档向下传播到目标元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-093",
+    "term": "本地存储",
+    "definition": "浏览器提供的客户端存储能力",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-094",
+    "term": "会话存储",
+    "definition": "浏览器提供的会话级别存储",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-095",
+    "term": "Cookie",
+    "definition": "浏览器存储的小量数据",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-096",
+    "term": "同源策略",
+    "definition": "浏览器限制跨域请求的安全机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-097",
+    "term": "CORS",
+    "definition": "跨域资源共享的安全机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-098",
+    "term": "XSS",
+    "definition": "跨站脚本攻击安全漏洞",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-099",
+    "term": "CSRF",
+    "definition": "跨站请求伪造安全漏洞",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-100",
+    "term": "内容安全策略",
+    "definition": "防止XSS攻击的浏览器安全机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-101",
+    "term": "OAuth",
+    "definition": "开放授权协议",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-102",
+    "term": "JWT",
+    "definition": "JSON Web Token身份验证令牌",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-103",
+    "term": "缓存",
+    "definition": "存储资源副本以减少网络请求",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-104",
+    "term": "Service Worker",
+    "definition": "浏览器后台运行的脚本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-105",
+    "term": "Web Worker",
+    "definition": "在后台线程运行脚本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-106",
+    "term": "正则表达式",
+    "definition": "用于匹配字符串模式的表达式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-107",
+    "term": "递归",
+    "definition": "函数调用自身的编程技巧",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-108",
+    "term": "高阶函数",
+    "definition": "接受或返回函数的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-109",
+    "term": "纯函数",
+    "definition": "无副作用的函数，相同输入相同输出",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-110",
+    "term": "副作用",
+    "definition": "函数执行过程中对外部状态的影响",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-111",
+    "term": "不变性",
+    "definition": "数据创建后不可修改的原则",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-112",
+    "term": "函数式编程",
+    "definition": "以函数为核心，避免状态变化的编程范式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-113",
+    "term": "面向对象编程",
+    "definition": "以对象为核心，封装数据和行为的编程范式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-114",
+    "term": "MVC",
+    "definition": "模型-视图-控制器的架构模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-115",
+    "term": "MVVM",
+    "definition": "模型-视图-视图模型的架构模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-116",
+    "term": "发布订阅模式",
+    "definition": "对象间一对多的依赖关系模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-117",
+    "term": "观察者模式",
+    "definition": "对象状态变化通知依赖对象的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-118",
+    "term": "单例模式",
+    "definition": "确保一个类只有一个实例的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-119",
+    "term": "工厂模式",
+    "definition": "创建对象而不暴露创建逻辑的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-120",
+    "term": "代理模式",
+    "definition": "为其他对象提供代理控制的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-121",
+    "term": "适配器模式",
+    "definition": "将不兼容接口转为兼容的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-122",
+    "term": "装饰器模式",
+    "definition": "动态为对象添加功能的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-123",
+    "term": "命令模式",
+    "definition": "将请求封装为对象的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-124",
+    "term": "策略模式",
+    "definition": "定义一系列算法并使其可互换的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-125",
+    "term": "迭代器模式",
+    "definition": "顺序访问集合元素而不暴露内部表示",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-126",
+    "term": "Web标准",
+    "definition": "W3C制定的Web技术规范",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-127",
+    "term": "W3C",
+    "definition": "万维网联盟，Web标准制定组织",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-128",
+    "term": "WHATWG",
+    "definition": "Web超文本应用技术工作组",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-129",
+    "term": "ARIA",
+    "definition": "可访问的富互联网应用规范",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-130",
+    "term": "SemVer",
+    "definition": "语义化版本控制规范",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-131",
+    "term": "Conventional Commits",
+    "definition": "约定式提交信息规范",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-132",
+    "term": "BEM",
+    "definition": "块-元素-修饰符的CSS命名规范",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-133",
+    "term": "FCP",
+    "definition": "首次内容绘制，用户看到第一个内容的时间",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-134",
+    "term": "LCP",
+    "definition": "最大内容绘制，页面主要内容加载完成的时间",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-135",
+    "term": "FID",
+    "definition": "首次输入延迟，用户首次交互的响应时间",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-136",
+    "term": "CLS",
+    "definition": "累积布局偏移，视觉稳定性的度量",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-137",
+    "term": "TTI",
+    "definition": "可交互时间，页面完全可交互的时间",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-138",
+    "term": "TBT",
+    "definition": "总阻塞时间，主线程被阻塞的总时间",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-139",
+    "term": "CRP",
+    "definition": "关键渲染路径，浏览器渲染页面的步骤",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-140",
+    "term": "Lighthouse",
+    "definition": "Google的自动化审计工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-141",
+    "term": "Chrome DevTools",
+    "definition": "Chrome浏览器的开发者工具集",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-142",
+    "term": "标准化",
+    "definition": "建立统一技术规范的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-143",
+    "term": "渐进增强",
+    "definition": "从基础功能开始，逐层增加高级功能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-144",
+    "term": "优雅降级",
+    "definition": "先构建完整功能，再兼容老旧环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-145",
+    "term": "移动优先",
+    "definition": "先设计移动端再适配桌面的策略",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-146",
+    "term": "桌面优先",
+    "definition": "先设计桌面端再适配移动端的策略",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-147",
+    "term": "原子化CSS",
+    "definition": "每个CSS类只做一个样式属性的方法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-148",
+    "term": "CSS-in-JS",
+    "definition": "在JavaScript中编写CSS的技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-149",
+    "term": "CSS Modules",
+    "definition": "局部作用域的CSS文件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-150",
+    "term": "Styled Components",
+    "definition": "React中流行的CSS-in-JS库",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-151",
+    "term": "跨浏览器兼容",
+    "definition": "确保网站在不同浏览器中表现一致",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-152",
+    "term": "浏览器引擎",
+    "definition": "浏览器中解析和渲染网页的核心组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-153",
+    "term": "渲染引擎",
+    "definition": "浏览器中负责解析HTML/CSS并绘制页面的组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-154",
+    "term": "JS引擎",
+    "definition": "浏览器中执行JavaScript代码的组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-155",
+    "term": "V8引擎",
+    "definition": "Chrome和Node.js使用的JavaScript引擎",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-156",
+    "term": "Web API",
+    "definition": "浏览器提供的编程接口集合",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-157",
+    "term": "Fetch API",
+    "definition": "基于Promise的HTTP请求API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-158",
+    "term": "Canvas API",
+    "definition": "通过JavaScript绘制2D图形的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-159",
+    "term": "Web Storage API",
+    "definition": "浏览器提供的本地存储API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-160",
+    "term": "History API",
+    "definition": "操作浏览器会话历史的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-161",
+    "term": "Geolocation API",
+    "definition": "获取用户地理位置的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-162",
+    "term": "Notification API",
+    "definition": "显示桌面通知的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-163",
+    "term": "Web Audio API",
+    "definition": "处理和分析音频的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-164",
+    "term": "File API",
+    "definition": "在浏览器中处理文件的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-165",
+    "term": "Drag and Drop API",
+    "definition": "实现拖放功能的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-166",
+    "term": "Intersection Observer",
+    "definition": "观察元素进入视口的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-167",
+    "term": "Resize Observer",
+    "definition": "观察元素尺寸变化的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-168",
+    "term": "Mutation Observer",
+    "definition": "观察DOM变化的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-169",
+    "term": "Performance API",
+    "definition": "获取性能指标的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-170",
+    "term": "Console API",
+    "definition": "向控制台输出信息的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-171",
+    "term": "定时器函数",
+    "definition": "setTimeout和setInterval等定时执行函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-172",
+    "term": "requestAnimationFrame",
+    "definition": "在下次重绘前调用函数的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-173",
+    "term": "事件对象",
+    "definition": "包含事件信息的对象",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-174",
+    "term": "目标元素",
+    "definition": "触发事件的DOM元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-175",
+    "term": "当前目标",
+    "definition": "当前绑定事件监听的DOM元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-176",
+    "term": "默认行为",
+    "definition": "浏览器对某些事件的预设处理",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-177",
+    "term": "表单验证",
+    "definition": "检查表单数据是否合法的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-178",
+    "term": "HTML5验证",
+    "definition": "HTML5提供的内置表单验证机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-179",
+    "term": "正则验证",
+    "definition": "使用正则表达式进行格式验证",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-180",
+    "term": "自定义验证",
+    "definition": "通过JavaScript自定义验证规则",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-181",
+    "term": "输入过滤",
+    "definition": "限制或转换用户输入的内容",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-182",
+    "term": "输入格式化",
+    "definition": "自动格式化用户输入的格式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-183",
+    "term": "防抖",
+    "definition": "延迟执行直到停止触发的高频事件优化技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-184",
+    "term": "节流",
+    "definition": "限制执行频率的高频事件优化技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-185",
+    "term": "深拷贝",
+    "definition": "创建对象的完全独立副本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-186",
+    "term": "浅拷贝",
+    "definition": "只复制对象第一层属性的拷贝方式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-187",
+    "term": "不可变数据",
+    "definition": "创建后不能被修改的数据",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-188",
+    "term": "状态提升",
+    "definition": "将组件的状态移到父组件管理",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-189",
+    "term": "受控组件",
+    "definition": "由React状态控制的表单组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-190",
+    "term": "非受控组件",
+    "definition": "由DOM自身管理的表单组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-191",
+    "term": "Ref",
+    "definition": "获取DOM元素或组件实例的引用",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-192",
+    "term": "Effect",
+    "definition": "React中处理副作用的钩子",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-193",
+    "term": "Context",
+    "definition": "React中跨组件传递数据的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-194",
+    "term": "Reducer",
+    "definition": "React中管理复杂状态的钩子",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-195",
+    "term": "Memo",
+    "definition": "React中记忆计算结果防止重渲染",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-196",
+    "term": "Callback",
+    "definition": "React中记忆函数引用防止重渲染",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-197",
+    "term": "Portal",
+    "definition": "将子节点渲染到父组件DOM外的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-198",
+    "term": "Suspense",
+    "definition": "React中处理异步操作加载状态的组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-199",
+    "term": "Fiber",
+    "definition": "React 16引入的新协调引擎",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-200",
+    "term": "Hooks",
+    "definition": "React 16.8引入的函数组件状态和生命周期功能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-201",
+    "term": "自定义Hooks",
+    "definition": "复用状态逻辑的React自定义Hook",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-202",
+    "term": "错误边界",
+    "definition": "捕获子组件错误的React组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-203",
+    "term": "高阶组件",
+    "definition": "接受组件并返回新组件的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-204",
+    "term": "Render Props",
+    "definition": "通过函数prop共享代码的技术",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-205",
+    "term": "作用域插槽",
+    "definition": "Vue中向插槽传递数据的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-206",
+    "term": "指令",
+    "definition": "Vue中以v-开头的特殊属性",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-207",
+    "term": "计算属性",
+    "definition": "Vue中基于依赖缓存的派生值",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-208",
+    "term": "侦听器",
+    "definition": "Vue中监听数据变化并执行回调",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-209",
+    "term": "Vuex",
+    "definition": "Vue的状态管理模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-210",
+    "term": "Pinia",
+    "definition": "Vue的新一代状态管理库",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-211",
+    "term": "模板语法",
+    "definition": "Vue中声明式渲染的模板语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-212",
+    "term": "条件渲染",
+    "definition": "根据条件决定是否渲染元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-213",
+    "term": "列表渲染",
+    "definition": "遍历数组渲染元素列表",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-214",
+    "term": "事件绑定",
+    "definition": "在模板中绑定事件处理函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-215",
+    "term": "双向绑定",
+    "definition": "数据和视图之间的自动同步",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-216",
+    "term": "生命周期",
+    "definition": "组件从创建到销毁的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-217",
+    "term": "keep-alive",
+    "definition": "Vue中缓存组件状态的抽象组件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-218",
+    "term": "过渡动画",
+    "definition": "Vue中元素进入离开的动画效果",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-219",
+    "term": "混入",
+    "definition": "Vue中分发可复用功能的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-220",
+    "term": "插件",
+    "definition": "Vue中扩展功能的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-221",
+    "term": "渲染函数",
+    "definition": "Vue中使用JavaScript生成虚拟DOM的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-222",
+    "term": "JSX",
+    "definition": "JavaScript的XML扩展语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-223",
+    "term": "TSX",
+    "definition": "TypeScript的JSX版本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-224",
+    "term": "类型注解",
+    "definition": "TypeScript中为变量添加类型说明",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-225",
+    "term": "接口",
+    "definition": "TypeScript中定义对象形状的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-226",
+    "term": "类型别名",
+    "definition": "TypeScript中为类型创建别名",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-227",
+    "term": "泛型",
+    "definition": "TypeScript中创建可复用组件的类型参数机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-228",
+    "term": "枚举",
+    "definition": "TypeScript中定义命名常量集合",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-229",
+    "term": "联合类型",
+    "definition": "TypeScript中表示可以是多种类型之一的类型",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-230",
+    "term": "交叉类型",
+    "definition": "TypeScript中将多个类型合并的类型",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-231",
+    "term": "类型守卫",
+    "definition": "TypeScript中缩小类型范围的表达式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-232",
+    "term": "工具类型",
+    "definition": "TypeScript中用于类型转换的内置泛型类型",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-233",
+    "term": "声明文件",
+    "definition": "TypeScript中为JS库提供类型信息的.d.ts文件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-234",
+    "term": "严格模式",
+    "definition": "TypeScript中启用最严格类型检查的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-235",
+    "term": "路径别名",
+    "definition": "TypeScript中为模块路径配置别名",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-236",
+    "term": "装饰器",
+    "definition": "一种特殊的声明，可以修改类及其成员的行为",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-237",
+    "term": "元组",
+    "definition": "TypeScript中固定长度和类型的数组",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-238",
+    "term": "Unknown类型",
+    "definition": "TypeScript中比any更安全的未知类型",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-239",
+    "term": "Never类型",
+    "definition": "TypeScript中表示永远不会发生的类型",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-240",
+    "term": "类型推断",
+    "definition": "TypeScript自动推导变量类型的能力",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-241",
+    "term": "分包策略",
+    "definition": "将代码拆分为多个包的构建策略",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-242",
+    "term": "内容协商",
+    "definition": "客户端和服务器就响应格式达成一致的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-243",
+    "term": "Web字体",
+    "definition": "在网页中使用自定义字体",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-244",
+    "term": "图标字体",
+    "definition": "使用字体文件显示图标",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-245",
+    "term": "雪碧图",
+    "definition": "将多个小图合并为一张大图减少请求",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-246",
+    "term": "Base64编码",
+    "definition": "将二进制数据编码为文本格式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-247",
+    "term": "数据URI",
+    "definition": "将资源直接嵌入HTML/CSS的URI方案",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-248",
+    "term": "前缀",
+    "definition": "浏览器厂商为实验性CSS属性添加的前缀",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-249",
+    "term": "Normalize.css",
+    "definition": "统一不同浏览器默认样式的CSS库",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-250",
+    "term": "Reset CSS",
+    "definition": "重置所有浏览器默认样式的CSS方案",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-251",
+    "term": "Houdini",
+    "definition": "让开发者访问CSS渲染引擎的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-252",
+    "term": "Containment",
+    "definition": "CSS中隔离元素渲染以提高性能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-253",
+    "term": "Container Queries",
+    "definition": "基于容器尺寸的媒体查询",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-254",
+    "term": "CSS Nesting",
+    "definition": "CSS中嵌套选择器的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-255",
+    "term": "Layer",
+    "definition": "CSS中控制层叠顺序的@layer规则",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-256",
+    "term": "Scope",
+    "definition": "CSS中限制样式作用域的@scope规则",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-257",
+    "term": "Has选择器",
+    "definition": "CSS中根据子元素选择父元素的:has()伪类",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-258",
+    "term": "Subgrid",
+    "definition": "CSS中继承父网格轨道的子网格",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-259",
+    "term": "Masonry布局",
+    "definition": "瀑布流式的网格布局",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-260",
+    "term": "滚动驱动动画",
+    "definition": "基于滚动位置的CSS动画",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-261",
+    "term": "视图过渡API",
+    "definition": "在不同DOM状态间创建平滑动画的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-262",
+    "term": "声明式Shadow DOM",
+    "definition": "HTML中声明式定义Shadow DOM",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-263",
+    "term": "Popover API",
+    "definition": "创建弹出层内容的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-264",
+    "term": "对话框元素",
+    "definition": "HTML中的dialog元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-265",
+    "term": "details元素",
+    "definition": "HTML中创建展开/折叠区域的元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-266",
+    "term": "template元素",
+    "definition": "HTML中保存客户端内容的模板元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-267",
+    "term": "slot元素",
+    "definition": "Web Components中用于插入内容的元素",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-268",
+    "term": "Shadow DOM",
+    "definition": "Web Components中封装DOM和样式的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-269",
+    "term": "Custom Elements",
+    "definition": "创建自定义HTML元素的API",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-270",
+    "term": "Web Components",
+    "definition": "创建可复用组件的Web标准技术集合",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-271",
+    "term": "Node.js事件循环",
+    "definition": "Node.js处理异步操作的事件循环机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-272",
+    "term": "npm scripts",
+    "definition": "npm中自定义的运行脚本",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-273",
+    "term": "npx命令",
+    "definition": "运行npm包中的命令而不需要全局安装",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-274",
+    "term": "package-lock.json",
+    "definition": "锁定依赖版本的文件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-275",
+    "term": "依赖树",
+    "definition": "项目依赖包之间的层次关系",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-276",
+    "term": "直接依赖",
+    "definition": "项目直接引用的依赖包",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-277",
+    "term": "间接依赖",
+    "definition": "依赖包自身依赖的其他包",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-278",
+    "term": "语义化版本范围",
+    "definition": "npm中指定可接受版本范围的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-279",
+    "term": "Monorepo",
+    "definition": "在单个仓库管理多个包的方式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-280",
+    "term": "Turborepo",
+    "definition": "高性能的Monorepo构建系统",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-281",
+    "term": "Lerna",
+    "definition": "管理多包仓库的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-282",
+    "term": "Changesets",
+    "definition": "管理和生成版本变更日志的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-283",
+    "term": "Husky",
+    "definition": "管理Git hooks的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-284",
+    "term": "lint-staged",
+    "definition": "只对暂存文件运行linter的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-285",
+    "term": "EditorConfig",
+    "definition": "跨编辑器保持代码风格一致的配置",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-286",
+    "term": "环境变量",
+    "definition": "影响程序行为的配置变量",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-287",
+    "term": "开发环境",
+    "definition": "开发阶段使用的环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-288",
+    "term": "生产环境",
+    "definition": "面向用户的环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-289",
+    "term": "测试环境",
+    "definition": "用于测试的环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-290",
+    "term": "CI环境",
+    "definition": "持续集成环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-291",
+    "term": "环境变量模式",
+    "definition": "根据环境加载不同配置的模式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-292",
+    "term": "配置文件",
+    "definition": "应用程序的配置设置文件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-293",
+    "term": "构建产物",
+    "definition": "构建过程生成的最终文件",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-294",
+    "term": "开发服务器",
+    "definition": "开发阶段用于预览的本地服务器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-295",
+    "term": "代理配置",
+    "definition": "将请求转发到其他服务器的配置",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-296",
+    "term": "Mock数据",
+    "definition": "模拟的后端数据",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-297",
+    "term": "抓包",
+    "definition": "拦截和查看网络请求的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-298",
+    "term": "断点调试",
+    "definition": "在指定行暂停执行以便检查状态的调试方法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-299",
+    "term": "性能分析",
+    "definition": "分析和优化程序性能的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-300",
+    "term": "内存泄漏",
+    "definition": "不再使用的内存未被释放的问题",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-301",
+    "term": "垃圾回收",
+    "definition": "自动释放不再使用的内存的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-302",
+    "term": "调用栈",
+    "definition": "跟踪函数调用的数据结构",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-303",
+    "term": "执行上下文",
+    "definition": "代码执行时的环境",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-304",
+    "term": "事件队列",
+    "definition": "待处理的异步事件列表",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-305",
+    "term": "微任务",
+    "definition": "Promise等优先级较高的异步任务",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-306",
+    "term": "宏任务",
+    "definition": "setTimeout等优先级较低的异步任务",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-307",
+    "term": "手写Promise",
+    "definition": "理解Promise原理的实现",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-308",
+    "term": "Promise A+规范",
+    "definition": "Promise实现的行业标准",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-309",
+    "term": "Generator",
+    "definition": "可暂停和恢复的函数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-310",
+    "term": "迭代器",
+    "definition": "提供next方法遍历集合的对象",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-311",
+    "term": "可迭代对象",
+    "definition": "实现了Symbol.iterator方法的对象",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-312",
+    "term": "for-await-of",
+    "definition": "异步迭代的循环语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-313",
+    "term": "异步迭代器",
+    "definition": "异步版本的迭代器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-314",
+    "term": "顶层await",
+    "definition": "模块顶层使用await的语法",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-315",
+    "term": "import.meta",
+    "definition": "包含当前模块元数据的对象",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-316",
+    "term": "import映射",
+    "definition": "浏览器中映射模块说明符的机制",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-317",
+    "term": "CDN资源",
+    "definition": "通过CDN加载的第三方库",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-318",
+    "term": "ESM CDN",
+    "definition": "提供ES模块的CDN服务",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-319",
+    "term": "esbuild",
+    "definition": "极速的JavaScript打包器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-320",
+    "term": "Rollup",
+    "definition": "高效打包ES模块的工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-321",
+    "term": "Parcel",
+    "definition": "零配置的打包工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-322",
+    "term": "SWC",
+    "definition": "基于Rust的超快JavaScript/TypeScript编译器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-323",
+    "term": "Rome",
+    "definition": "统一的开发工具链",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-324",
+    "term": "Biome",
+    "definition": "高性能的格式化和lint工具",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-325",
+    "term": "Oxlint",
+    "definition": "Oxidizer的Rust代码检查器",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-326",
+    "term": "依赖分析",
+    "definition": "分析项目依赖关系的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-327",
+    "term": "打包优化",
+    "definition": "减少打包体积的策略",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-328",
+    "term": "代码压缩",
+    "definition": "移除空白和缩短变量名的优化",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-329",
+    "term": "CSS压缩",
+    "definition": "移除CSS中不必要的空白",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-330",
+    "term": "图片压缩",
+    "definition": "减少图片文件大小的优化",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-331",
+    "term": "WebP格式",
+    "definition": "Google推出的现代图片格式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-332",
+    "term": "AVIF格式",
+    "definition": "基于AV1的下一代图片格式",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-333",
+    "term": "SVG优化",
+    "definition": "优化SVG文件的策略",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-334",
+    "term": "字体子集化",
+    "definition": "只包含所需字符的字体子集",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-335",
+    "term": "预加载",
+    "definition": "提前加载页面所需的关键资源",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-336",
+    "term": "预连接",
+    "definition": "提前建立到源站的连接",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-337",
+    "term": "预解析",
+    "definition": "提前解析DNS的优化",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-338",
+    "term": "资源提示",
+    "definition": "告知浏览器资源优先级",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-339",
+    "term": "关键CSS",
+    "definition": "首屏渲染所需的CSS",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-340",
+    "term": "内联关键CSS",
+    "definition": "将关键CSS嵌入HTML中减少请求",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-341",
+    "term": "异步CSS",
+    "definition": "延迟加载非关键CSS",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-342",
+    "term": "CSS contain",
+    "definition": "限制元素渲染范围以提高性能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-343",
+    "term": "will-change",
+    "definition": "提示浏览器元素将发生变化的属性",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-344",
+    "term": "图层合成",
+    "definition": "将不同图层合并为最终画面的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-345",
+    "term": "GPU加速",
+    "definition": "使用GPU提高渲染性能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-346",
+    "term": "硬件加速",
+    "definition": "利用硬件提高渲染性能",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-347",
+    "term": "光栅化",
+    "definition": "将矢量信息转为像素的过程",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-348",
+    "term": "纹理",
+    "definition": "用于渲染的图像数据",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-349",
+    "term": "帧率",
+    "definition": "每秒渲染的帧数",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-350",
+    "term": "卡顿",
+    "definition": "帧率过低导致的视觉不流畅",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-351",
+    "term": "Jank",
+    "definition": "页面卡顿的问题",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-glossary-352",
+    "term": "FPS",
+    "definition": "每秒帧数，衡量动画流畅度的指标",
+    "category": "前端开发",
+    "tags": [
+      "前端开发"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  }
+]

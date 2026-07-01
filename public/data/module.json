@@ -4,7 +4,7 @@
   "title": "前端开发入门",
   "subtitle": "从零基础到小项目实战的前端静态学习、刷题与考试模块",
   "description": "面向零基础学生、大学新生、转专业学习者，以及准备学习 Web 前端开发、响应式设计、前后端分离应用开发的人群。覆盖 HTML 语义化、CSS 布局与动画、JavaScript 核心语法、DOM 操作、ES6+、前后端交互、Vue/React 入门、前端工程化与小项目实战。包含课程、讲义、知识点、题库、试卷、案例训练、学习路线、术语表与 FAQ。",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "authors": [
     "OpenSkill Community"
@@ -24,17 +24,17 @@
   "coverEmoji": "🌐",
   "repoUrl": "https://github.com/openskill-galaxy/module-frontend-dev",
   "portalUrl": "https://openskill-galaxy.github.io/",
-  "status": "draft",
+  "status": "stable",
   "stats": {
-    "courses": 0,
-    "lessons": 0,
-    "knowledgePoints": 0,
-    "questions": 0,
-    "cases": 0,
-    "exams": 0,
-    "routes": 0,
-    "glossary": 0,
-    "faqs": 0,
-    "tags": 0
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 861,
+    "questions": 3000,
+    "cases": 245,
+    "exams": 85,
+    "routes": 35,
+    "glossary": 352,
+    "faqs": 205,
+    "tags": 471
   }
 }
