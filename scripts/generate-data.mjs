@@ -1488,7 +1488,7 @@ function buildQuestions() {
       stem: `${hint}${chapter}的表述正确的是？`,
       options: ["A","B","C","D"].map((l, i) => ({ label: l, text: i === 0 ? `正确描述：${chapter}的核心要点` : `干扰项：常见误解描述` })),
       answer: "A",
-      explanation: `本题考查${chapter}相关知识点。正确答案是 A。`,
+      explanation: `本题考查${chapter}相关知识点。正确答案是A。${chapter}需要理解核心原理。`,
       wrong_reason: `对${chapter}的理解需要进一步加强。`,
       related_questions: [], tags: [chapter],
       estimated_time: diff === "hard" ? 120 : diff === "medium" ? 90 : 60,
@@ -1526,25 +1526,25 @@ function buildQuestions() {
           break;
         }
         case "multiple_choice": {
-          stem = `以下关于${chapter}的哪些说法是正确的？（多选）`;
+          const mcHint=pick(["以下关于","关于","下列属于","以下哪组"]);stem = `${mcHint}${chapter}的哪些描述是正确的？（多选）`;
           options = ["A","B","C","D"].map((l, i) => ({ label: l, text: i < 2 ? `正确描述 ${qid}` : `错误描述 ${qid}` }));
           answer = "AB";
           break;
         }
         case "true_false": {
-          stem = `${chapter}中，相关技术是前端开发的核心组成部分。（判断）`;
+          const tfHint=pick(["","在项目中，","通常情况下，"]);stem = `${tfHint}${chapter}是前端开发的核心技术。（判断）`;
           options = [{ label: "A", text: "正确" }, { label: "B", text: "错误" }];
           answer = pick(["A", "B"]);
           break;
         }
         case "fill_blank": {
-          stem = `在${chapter}中，______是实现该功能的关键技术。`;
+          const fbHint=pick(["实现","理解","掌握","优化"]);stem = `在${chapter}中，______是${fbHint}该功能的关键技术。`;
           options = [{ label: "A", text: "请填写答案" }];
           answer = "正确答案";
           break;
         }
         case "short_answer": {
-          stem = `请简述${chapter}的核心概念及其在前端开发中的应用场景。`;
+          const saHint=pick(["请简述","请说明","请解释","请概括"]);stem = `${saHint}${chapter}的核心概念及其在前端开发中的应用场景。`;
           options = [{ label: "A", text: "简答题" }];
           answer = `${chapter}的核心概念包括... 其应用场景有...`;
           break;
@@ -1561,7 +1561,7 @@ function buildQuestions() {
           break;
         }
         case "case_analysis": {
-          stem = `案例：开发者在实现${chapter}时，遇到了浏览器兼容性问题。请分析可能的原因并给出最佳的解决方案。`;
+          const caHint=pick(["开发者在实现","团队在应用","项目在集成","系统在部署"]);stem = `案例：${caHint}${chapter}时，遇到了兼容性问题。请分析可能的原因并给出最佳的解决方案。`;
           options = ["A","B","C","D"].map((l, i) => ({ label: l, text: `方案${i+1}：${["标准做法","替代方案","降级处理","综合优化"][i]}` }));
           answer = pick(["A","B","C","D"]);
           break;
