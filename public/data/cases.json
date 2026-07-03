@@ -10533,5 +10533,290 @@
       "GitHub Pages部署"
     ],
     "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-246",
+    "title": "自动化测试案例246",
+    "description": "通过自动化测试掌握技能",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "自动化测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-247",
+    "title": "前端优化案例247",
+    "description": "通过前端优化掌握技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "前端优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-248",
+    "title": "组件封装案例248",
+    "description": "通过组件封装掌握技能",
+    "difficulty": "medium",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "组件封装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-249",
+    "title": "性能监控案例249",
+    "description": "通过性能监控掌握技能",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "性能监控"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-250",
+    "title": "工程化案例250",
+    "description": "通过工程化掌握技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "工程化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-251",
+    "title": "部署流水线案例251",
+    "description": "通过部署流水线掌握技能",
+    "difficulty": "medium",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "部署流水线"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-252",
+    "title": "自动化测试案例252",
+    "description": "通过自动化测试掌握技能",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "自动化测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-253",
+    "title": "前端优化案例253",
+    "description": "通过前端优化掌握技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "前端优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-254",
+    "title": "组件封装案例254",
+    "description": "通过组件封装掌握技能",
+    "difficulty": "medium",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "组件封装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-255",
+    "title": "性能监控案例255",
+    "description": "通过性能监控掌握技能",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "性能监控"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-256",
+    "title": "工程化案例256",
+    "description": "通过工程化掌握技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "工程化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-257",
+    "title": "部署流水线案例257",
+    "description": "通过部署流水线掌握技能",
+    "difficulty": "medium",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "部署流水线"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-258",
+    "title": "自动化测试案例258",
+    "description": "通过自动化测试掌握技能",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "自动化测试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-259",
+    "title": "前端优化案例259",
+    "description": "通过前端优化掌握技能",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "前端优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-case-260",
+    "title": "组件封装案例260",
+    "description": "通过组件封装掌握技能",
+    "difficulty": "medium",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "组件封装"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   }
 ]

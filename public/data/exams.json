@@ -2973,5 +2973,200 @@
       "前端开发入门与学习路线"
     ],
     "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-86",
+    "title": "前端综合测试86",
+    "difficulty": "medium",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-87",
+    "title": "前端综合测试87",
+    "difficulty": "hard",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-88",
+    "title": "前端综合测试88",
+    "difficulty": "easy",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-89",
+    "title": "前端综合测试89",
+    "difficulty": "medium",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-90",
+    "title": "前端综合测试90",
+    "difficulty": "hard",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-91",
+    "title": "前端综合测试91",
+    "difficulty": "easy",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-92",
+    "title": "前端综合测试92",
+    "difficulty": "medium",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-93",
+    "title": "前端综合测试93",
+    "difficulty": "hard",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-94",
+    "title": "前端综合测试94",
+    "difficulty": "easy",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-95",
+    "title": "前端综合测试95",
+    "difficulty": "medium",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-96",
+    "title": "前端综合测试96",
+    "difficulty": "hard",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-97",
+    "title": "前端综合测试97",
+    "difficulty": "easy",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-98",
+    "title": "前端综合测试98",
+    "difficulty": "medium",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-99",
+    "title": "前端综合测试99",
+    "difficulty": "hard",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "fe-exam-100",
+    "title": "前端综合测试100",
+    "difficulty": "easy",
+    "timeLimit": 60,
+    "totalScore": 100,
+    "passingScore": 60,
+    "questionIds": [],
+    "tags": [
+      "前端"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   }
 ]
