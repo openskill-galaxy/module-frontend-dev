@@ -37,7 +37,19 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-001",
+      "fe-lesson-002",
+      "fe-lesson-003",
+      "fe-lesson-004",
+      "fe-lesson-005",
+      "fe-lesson-006",
+      "fe-lesson-007",
+      "fe-lesson-008",
+      "fe-lesson-009",
+      "fe-lesson-010"
+    ]
   },
   {
     "id": "fe-course-02",
@@ -77,7 +89,23 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-011",
+      "fe-lesson-012",
+      "fe-lesson-013",
+      "fe-lesson-014",
+      "fe-lesson-015",
+      "fe-lesson-016",
+      "fe-lesson-017",
+      "fe-lesson-018",
+      "fe-lesson-019",
+      "fe-lesson-020",
+      "fe-lesson-021",
+      "fe-lesson-022",
+      "fe-lesson-023",
+      "fe-lesson-024"
+    ]
   },
   {
     "id": "fe-course-03",
@@ -117,7 +145,23 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-025",
+      "fe-lesson-026",
+      "fe-lesson-027",
+      "fe-lesson-028",
+      "fe-lesson-029",
+      "fe-lesson-030",
+      "fe-lesson-031",
+      "fe-lesson-032",
+      "fe-lesson-033",
+      "fe-lesson-034",
+      "fe-lesson-035",
+      "fe-lesson-036",
+      "fe-lesson-037",
+      "fe-lesson-038"
+    ]
   },
   {
     "id": "fe-course-04",
@@ -155,7 +199,21 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-039",
+      "fe-lesson-040",
+      "fe-lesson-041",
+      "fe-lesson-042",
+      "fe-lesson-043",
+      "fe-lesson-044",
+      "fe-lesson-045",
+      "fe-lesson-046",
+      "fe-lesson-047",
+      "fe-lesson-048",
+      "fe-lesson-049",
+      "fe-lesson-050"
+    ]
   },
   {
     "id": "fe-course-05",
@@ -195,7 +253,19 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-051",
+      "fe-lesson-052",
+      "fe-lesson-053",
+      "fe-lesson-054",
+      "fe-lesson-055",
+      "fe-lesson-056",
+      "fe-lesson-057",
+      "fe-lesson-058",
+      "fe-lesson-059",
+      "fe-lesson-060"
+    ]
   },
   {
     "id": "fe-course-06",
@@ -237,7 +307,25 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-061",
+      "fe-lesson-062",
+      "fe-lesson-063",
+      "fe-lesson-064",
+      "fe-lesson-065",
+      "fe-lesson-066",
+      "fe-lesson-067",
+      "fe-lesson-068",
+      "fe-lesson-069",
+      "fe-lesson-070",
+      "fe-lesson-071",
+      "fe-lesson-072",
+      "fe-lesson-073",
+      "fe-lesson-074",
+      "fe-lesson-075",
+      "fe-lesson-076"
+    ]
   },
   {
     "id": "fe-course-07",
@@ -283,7 +371,25 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-077",
+      "fe-lesson-078",
+      "fe-lesson-079",
+      "fe-lesson-080",
+      "fe-lesson-081",
+      "fe-lesson-082",
+      "fe-lesson-083",
+      "fe-lesson-084",
+      "fe-lesson-085",
+      "fe-lesson-086",
+      "fe-lesson-087",
+      "fe-lesson-088",
+      "fe-lesson-089",
+      "fe-lesson-090",
+      "fe-lesson-091",
+      "fe-lesson-092"
+    ]
   },
   {
     "id": "fe-course-08",
@@ -325,7 +431,25 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-093",
+      "fe-lesson-094",
+      "fe-lesson-095",
+      "fe-lesson-096",
+      "fe-lesson-097",
+      "fe-lesson-098",
+      "fe-lesson-099",
+      "fe-lesson-100",
+      "fe-lesson-101",
+      "fe-lesson-102",
+      "fe-lesson-103",
+      "fe-lesson-104",
+      "fe-lesson-105",
+      "fe-lesson-106",
+      "fe-lesson-107",
+      "fe-lesson-108"
+    ]
   },
   {
     "id": "fe-course-09",
@@ -363,7 +487,21 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-109",
+      "fe-lesson-110",
+      "fe-lesson-111",
+      "fe-lesson-112",
+      "fe-lesson-113",
+      "fe-lesson-114",
+      "fe-lesson-115",
+      "fe-lesson-116",
+      "fe-lesson-117",
+      "fe-lesson-118",
+      "fe-lesson-119",
+      "fe-lesson-120"
+    ]
   },
   {
     "id": "fe-course-10",
@@ -401,7 +539,21 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-121",
+      "fe-lesson-122",
+      "fe-lesson-123",
+      "fe-lesson-124",
+      "fe-lesson-125",
+      "fe-lesson-126",
+      "fe-lesson-127",
+      "fe-lesson-128",
+      "fe-lesson-129",
+      "fe-lesson-130",
+      "fe-lesson-131",
+      "fe-lesson-132"
+    ]
   },
   {
     "id": "fe-course-11",
@@ -439,7 +591,21 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-133",
+      "fe-lesson-134",
+      "fe-lesson-135",
+      "fe-lesson-136",
+      "fe-lesson-137",
+      "fe-lesson-138",
+      "fe-lesson-139",
+      "fe-lesson-140",
+      "fe-lesson-141",
+      "fe-lesson-142",
+      "fe-lesson-143",
+      "fe-lesson-144"
+    ]
   },
   {
     "id": "fe-course-12",
@@ -479,7 +645,19 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-145",
+      "fe-lesson-146",
+      "fe-lesson-147",
+      "fe-lesson-148",
+      "fe-lesson-149",
+      "fe-lesson-150",
+      "fe-lesson-151",
+      "fe-lesson-152",
+      "fe-lesson-153",
+      "fe-lesson-154"
+    ]
   },
   {
     "id": "fe-course-13",
@@ -515,7 +693,19 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-155",
+      "fe-lesson-156",
+      "fe-lesson-157",
+      "fe-lesson-158",
+      "fe-lesson-159",
+      "fe-lesson-160",
+      "fe-lesson-161",
+      "fe-lesson-162",
+      "fe-lesson-163",
+      "fe-lesson-164"
+    ]
   },
   {
     "id": "fe-course-14",
@@ -563,6 +753,26 @@
       "理解最佳实践",
       "具备工程能力"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "lessons": [
+      "fe-lesson-165",
+      "fe-lesson-166",
+      "fe-lesson-167",
+      "fe-lesson-168",
+      "fe-lesson-169",
+      "fe-lesson-170",
+      "fe-lesson-171",
+      "fe-lesson-172",
+      "fe-lesson-173",
+      "fe-lesson-174",
+      "fe-lesson-175",
+      "fe-lesson-176",
+      "fe-lesson-177",
+      "fe-lesson-178",
+      "fe-lesson-179",
+      "fe-lesson-180",
+      "fe-lesson-181",
+      "fe-lesson-182"
+    ]
   }
 ]

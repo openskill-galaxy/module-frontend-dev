@@ -27,7 +27,13 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 什么是前端开发\n\n这是 什么是前端开发 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 什么是前端开发 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0001",
+      "fe-kp-0002",
+      "fe-kp-0003"
+    ]
   },
   {
     "id": "fe-lesson-002",
@@ -56,7 +62,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端发展历史\n\n这是 前端发展历史 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端发展历史 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0004",
+      "fe-kp-0005"
+    ]
   },
   {
     "id": "fe-lesson-003",
@@ -85,7 +96,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端技术栈概览\n\n这是 前端技术栈概览 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端技术栈概览 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0006",
+      "fe-kp-0007"
+    ]
   },
   {
     "id": "fe-lesson-004",
@@ -114,7 +130,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 开发环境搭建\n\n这是 开发环境搭建 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 开发环境搭建 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0008",
+      "fe-kp-0009"
+    ]
   },
   {
     "id": "fe-lesson-005",
@@ -143,7 +164,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 代码编辑器选择与配置\n\n这是 代码编辑器选择与配置 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 代码编辑器选择与配置 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0010",
+      "fe-kp-0011"
+    ]
   },
   {
     "id": "fe-lesson-006",
@@ -172,7 +198,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 浏览器开发者工具入门\n\n这是 浏览器开发者工具入门 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 浏览器开发者工具入门 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0012",
+      "fe-kp-0013"
+    ]
   },
   {
     "id": "fe-lesson-007",
@@ -201,7 +232,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端学习路线图\n\n这是 前端学习路线图 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端学习路线图 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0014",
+      "fe-kp-0015"
+    ]
   },
   {
     "id": "fe-lesson-008",
@@ -230,7 +266,12 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端职业方向\n\n这是 前端职业方向 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端职业方向 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0016",
+      "fe-kp-0017"
+    ]
   },
   {
     "id": "fe-lesson-009",
@@ -260,7 +301,12 @@
       "html"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 第一个HTML页面\n\n这是 第一个HTML页面 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 第一个HTML页面 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0018",
+      "fe-kp-0019"
+    ]
   },
   {
     "id": "fe-lesson-010",
@@ -288,7 +334,11 @@
       "web开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 学习资源与社区推荐\n\n这是 学习资源与社区推荐 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 学习资源与社区推荐 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0020"
+    ]
   },
   {
     "id": "fe-lesson-011",
@@ -314,7 +364,14 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HTML文档结构\n\n这是 HTML文档结构 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 HTML文档结构 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0021",
+      "fe-kp-0022",
+      "fe-kp-0023",
+      "fe-kp-0024"
+    ]
   },
   {
     "id": "fe-lesson-012",
@@ -339,7 +396,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# head标签与元数据\n\n这是 head标签与元数据 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 head标签与元数据 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0025",
+      "fe-kp-0026",
+      "fe-kp-0027"
+    ]
   },
   {
     "id": "fe-lesson-013",
@@ -364,7 +427,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 标题与段落标签\n\n这是 标题与段落标签 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 标题与段落标签 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0028",
+      "fe-kp-0029"
+    ]
   },
   {
     "id": "fe-lesson-014",
@@ -389,7 +457,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 超链接与导航\n\n这是 超链接与导航 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 超链接与导航 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0030",
+      "fe-kp-0031",
+      "fe-kp-0032"
+    ]
   },
   {
     "id": "fe-lesson-015",
@@ -414,7 +488,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 图片与多媒体\n\n这是 图片与多媒体 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 图片与多媒体 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0033",
+      "fe-kp-0034",
+      "fe-kp-0035"
+    ]
   },
   {
     "id": "fe-lesson-016",
@@ -438,7 +518,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 列表标签\n\n这是 列表标签 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 列表标签 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0036",
+      "fe-kp-0037"
+    ]
   },
   {
     "id": "fe-lesson-017",
@@ -463,7 +548,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表格标签\n\n这是 表格标签 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 表格标签 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0038",
+      "fe-kp-0039",
+      "fe-kp-0040"
+    ]
   },
   {
     "id": "fe-lesson-018",
@@ -488,7 +579,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单元素入门\n\n这是 表单元素入门 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 表单元素入门 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0041",
+      "fe-kp-0042",
+      "fe-kp-0043"
+    ]
   },
   {
     "id": "fe-lesson-019",
@@ -513,7 +610,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HTML5语义化标签\n\n这是 HTML5语义化标签 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 HTML5语义化标签 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0044",
+      "fe-kp-0045",
+      "fe-kp-0046"
+    ]
   },
   {
     "id": "fe-lesson-020",
@@ -538,7 +641,13 @@
       "行内元素"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 区块与行内元素\n\n这是 区块与行内元素 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 区块与行内元素 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0047",
+      "fe-kp-0048",
+      "fe-kp-0049"
+    ]
   },
   {
     "id": "fe-lesson-021",
@@ -563,7 +672,13 @@
       "全局属性"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HTML属性详解\n\n这是 HTML属性详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 HTML属性详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0050",
+      "fe-kp-0051",
+      "fe-kp-0052"
+    ]
   },
   {
     "id": "fe-lesson-022",
@@ -586,7 +701,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 字符实体与注释\n\n这是 字符实体与注释 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 字符实体与注释 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0053",
+      "fe-kp-0054"
+    ]
   },
   {
     "id": "fe-lesson-023",
@@ -609,7 +729,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# iframe与嵌入内容\n\n这是 iframe与嵌入内容 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 iframe与嵌入内容 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0055",
+      "fe-kp-0056"
+    ]
   },
   {
     "id": "fe-lesson-024",
@@ -632,7 +757,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HTML最佳实践\n\n这是 HTML最佳实践 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 HTML最佳实践 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0057",
+      "fe-kp-0058"
+    ]
   },
   {
     "id": "fe-lesson-025",
@@ -656,7 +786,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS概述与引入方式\n\n这是 CSS概述与引入方式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CSS概述与引入方式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0059",
+      "fe-kp-0060",
+      "fe-kp-0061"
+    ]
   },
   {
     "id": "fe-lesson-026",
@@ -683,7 +819,15 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS选择器详解\n\n这是 CSS选择器详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CSS选择器详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0062",
+      "fe-kp-0063",
+      "fe-kp-0064",
+      "fe-kp-0065",
+      "fe-kp-0066"
+    ]
   },
   {
     "id": "fe-lesson-027",
@@ -709,7 +853,14 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 盒模型基础\n\n这是 盒模型基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 盒模型基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0067",
+      "fe-kp-0068",
+      "fe-kp-0069",
+      "fe-kp-0070"
+    ]
   },
   {
     "id": "fe-lesson-028",
@@ -734,7 +885,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# padding与margin\n\n这是 padding与margin 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 padding与margin 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0071",
+      "fe-kp-0072"
+    ]
   },
   {
     "id": "fe-lesson-029",
@@ -759,7 +915,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# border与outline\n\n这是 border与outline 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 border与outline 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0073",
+      "fe-kp-0074",
+      "fe-kp-0075"
+    ]
   },
   {
     "id": "fe-lesson-030",
@@ -785,7 +947,14 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# display属性\n\n这是 display属性 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 display属性 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0076",
+      "fe-kp-0077",
+      "fe-kp-0078",
+      "fe-kp-0079"
+    ]
   },
   {
     "id": "fe-lesson-031",
@@ -813,7 +982,16 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# position定位\n\n这是 position定位 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 position定位 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0080",
+      "fe-kp-0081",
+      "fe-kp-0082",
+      "fe-kp-0083",
+      "fe-kp-0084",
+      "fe-kp-0085"
+    ]
   },
   {
     "id": "fe-lesson-032",
@@ -840,7 +1018,14 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 浮动与清除浮动\n\n这是 浮动与清除浮动 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 浮动与清除浮动 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0086",
+      "fe-kp-0087",
+      "fe-kp-0088",
+      "fe-kp-0089"
+    ]
   },
   {
     "id": "fe-lesson-033",
@@ -864,7 +1049,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# overflow与滚动\n\n这是 overflow与滚动 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 overflow与滚动 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0090",
+      "fe-kp-0091"
+    ]
   },
   {
     "id": "fe-lesson-034",
@@ -890,7 +1080,15 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS单位\n\n这是 CSS单位 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CSS单位 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0092",
+      "fe-kp-0093",
+      "fe-kp-0094",
+      "fe-kp-0095",
+      "fe-kp-0096"
+    ]
   },
   {
     "id": "fe-lesson-035",
@@ -917,7 +1115,14 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 字体与文本样式\n\n这是 字体与文本样式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 字体与文本样式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0097",
+      "fe-kp-0098",
+      "fe-kp-0099",
+      "fe-kp-0100"
+    ]
   },
   {
     "id": "fe-lesson-036",
@@ -943,7 +1148,14 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 颜色与背景\n\n这是 颜色与背景 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 颜色与背景 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0101",
+      "fe-kp-0102",
+      "fe-kp-0103",
+      "fe-kp-0104"
+    ]
   },
   {
     "id": "fe-lesson-037",
@@ -969,7 +1181,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 伪类与伪元素\n\n这是 伪类与伪元素 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 伪类与伪元素 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0105",
+      "fe-kp-0106",
+      "fe-kp-0107"
+    ]
   },
   {
     "id": "fe-lesson-038",
@@ -993,7 +1211,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS层叠与继承\n\n这是 CSS层叠与继承 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CSS层叠与继承 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0108",
+      "fe-kp-0109",
+      "fe-kp-0110"
+    ]
   },
   {
     "id": "fe-lesson-039",
@@ -1017,7 +1241,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Flex布局概述\n\n这是 Flex布局概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Flex布局概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0111",
+      "fe-kp-0112"
+    ]
   },
   {
     "id": "fe-lesson-040",
@@ -1043,7 +1272,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# flex-direction与flex-wrap\n\n这是 flex-direction与flex-wrap 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 flex-direction与flex-wrap 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0113",
+      "fe-kp-0114",
+      "fe-kp-0115"
+    ]
   },
   {
     "id": "fe-lesson-041",
@@ -1069,7 +1304,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# justify-content与align-items\n\n这是 justify-content与align-items 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 justify-content与align-items 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0116",
+      "fe-kp-0117",
+      "fe-kp-0118"
+    ]
   },
   {
     "id": "fe-lesson-042",
@@ -1096,7 +1337,14 @@
       "flex-basis"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# flex-grow与flex-shrink\n\n这是 flex-grow与flex-shrink 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 flex-grow与flex-shrink 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0119",
+      "fe-kp-0120",
+      "fe-kp-0121",
+      "fe-kp-0122"
+    ]
   },
   {
     "id": "fe-lesson-043",
@@ -1120,7 +1368,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Flex项目属性\n\n这是 Flex项目属性 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Flex项目属性 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0123",
+      "fe-kp-0124"
+    ]
   },
   {
     "id": "fe-lesson-044",
@@ -1144,7 +1397,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Flex常见布局模式\n\n这是 Flex常见布局模式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Flex常见布局模式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0125",
+      "fe-kp-0126"
+    ]
   },
   {
     "id": "fe-lesson-045",
@@ -1168,7 +1426,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Grid布局概述\n\n这是 Grid布局概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Grid布局概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0127",
+      "fe-kp-0128"
+    ]
   },
   {
     "id": "fe-lesson-046",
@@ -1194,7 +1457,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# grid-template与gap\n\n这是 grid-template与gap 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 grid-template与gap 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0129",
+      "fe-kp-0130",
+      "fe-kp-0131"
+    ]
   },
   {
     "id": "fe-lesson-047",
@@ -1220,7 +1489,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# grid-column与grid-row\n\n这是 grid-column与grid-row 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 grid-column与grid-row 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0132",
+      "fe-kp-0133",
+      "fe-kp-0134"
+    ]
   },
   {
     "id": "fe-lesson-048",
@@ -1244,7 +1519,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# grid-auto-flow与隐式网格\n\n这是 grid-auto-flow与隐式网格 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 grid-auto-flow与隐式网格 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0135",
+      "fe-kp-0136"
+    ]
   },
   {
     "id": "fe-lesson-049",
@@ -1268,7 +1548,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Grid常见布局模式\n\n这是 Grid常见布局模式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Grid常见布局模式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0137",
+      "fe-kp-0138"
+    ]
   },
   {
     "id": "fe-lesson-050",
@@ -1292,7 +1577,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Flex与Grid对比\n\n这是 Flex与Grid对比 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Flex与Grid对比 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0139",
+      "fe-kp-0140"
+    ]
   },
   {
     "id": "fe-lesson-051",
@@ -1321,7 +1611,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式设计概述\n\n这是 响应式设计概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 响应式设计概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0141",
+      "fe-kp-0142"
+    ]
   },
   {
     "id": "fe-lesson-052",
@@ -1350,7 +1645,12 @@
       "响应式布局"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# viewport设置\n\n这是 viewport设置 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 viewport设置 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0143",
+      "fe-kp-0144"
+    ]
   },
   {
     "id": "fe-lesson-053",
@@ -1381,7 +1681,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 媒体查询基础\n\n这是 媒体查询基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 媒体查询基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0145",
+      "fe-kp-0146",
+      "fe-kp-0147"
+    ]
   },
   {
     "id": "fe-lesson-054",
@@ -1411,7 +1717,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 媒体查询进阶\n\n这是 媒体查询进阶 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 媒体查询进阶 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0148",
+      "fe-kp-0149"
+    ]
   },
   {
     "id": "fe-lesson-055",
@@ -1440,7 +1751,12 @@
       "响应式布局"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 流式布局\n\n这是 流式布局 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 流式布局 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0150",
+      "fe-kp-0151"
+    ]
   },
   {
     "id": "fe-lesson-056",
@@ -1473,7 +1789,13 @@
       "响应式布局"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式单位\n\n这是 响应式单位 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 响应式单位 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0152",
+      "fe-kp-0153",
+      "fe-kp-0154"
+    ]
   },
   {
     "id": "fe-lesson-057",
@@ -1502,7 +1824,12 @@
       "响应式布局"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 移动优先设计\n\n这是 移动优先设计 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 移动优先设计 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0155",
+      "fe-kp-0156"
+    ]
   },
   {
     "id": "fe-lesson-058",
@@ -1531,7 +1858,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式图片\n\n这是 响应式图片 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 响应式图片 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0157",
+      "fe-kp-0158"
+    ]
   },
   {
     "id": "fe-lesson-059",
@@ -1561,7 +1893,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式导航\n\n这是 响应式导航 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 响应式导航 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0159",
+      "fe-kp-0160"
+    ]
   },
   {
     "id": "fe-lesson-060",
@@ -1591,7 +1928,13 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 常见响应式模式\n\n这是 常见响应式模式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 常见响应式模式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0161",
+      "fe-kp-0162",
+      "fe-kp-0163"
+    ]
   },
   {
     "id": "fe-lesson-061",
@@ -1615,7 +1958,13 @@
       "javascript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JavaScript简介\n\n这是 JavaScript简介 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 JavaScript简介 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0164",
+      "fe-kp-0165",
+      "fe-kp-0166"
+    ]
   },
   {
     "id": "fe-lesson-062",
@@ -1643,7 +1992,14 @@
       "var"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 变量声明\n\n这是 变量声明 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 变量声明 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0167",
+      "fe-kp-0168",
+      "fe-kp-0169",
+      "fe-kp-0170"
+    ]
   },
   {
     "id": "fe-lesson-063",
@@ -1672,7 +2028,15 @@
       "布尔值"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 基本数据类型\n\n这是 基本数据类型 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 基本数据类型 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0171",
+      "fe-kp-0172",
+      "fe-kp-0173",
+      "fe-kp-0174",
+      "fe-kp-0175"
+    ]
   },
   {
     "id": "fe-lesson-064",
@@ -1697,7 +2061,13 @@
       "类型转换"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# typeof与类型转换\n\n这是 typeof与类型转换 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 typeof与类型转换 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0176",
+      "fe-kp-0177",
+      "fe-kp-0178"
+    ]
   },
   {
     "id": "fe-lesson-065",
@@ -1724,7 +2094,16 @@
       "运算符"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 运算符\n\n这是 运算符 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 运算符 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0179",
+      "fe-kp-0180",
+      "fe-kp-0181",
+      "fe-kp-0182",
+      "fe-kp-0183",
+      "fe-kp-0184"
+    ]
   },
   {
     "id": "fe-lesson-066",
@@ -1749,7 +2128,13 @@
       "字符串方法"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 字符串详解\n\n这是 字符串详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 字符串详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0185",
+      "fe-kp-0186",
+      "fe-kp-0187"
+    ]
   },
   {
     "id": "fe-lesson-067",
@@ -1772,7 +2157,12 @@
       "数字"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数字与数学运算\n\n这是 数字与数学运算 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 数字与数学运算 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0188",
+      "fe-kp-0189"
+    ]
   },
   {
     "id": "fe-lesson-068",
@@ -1798,7 +2188,13 @@
       "switch"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件语句\n\n这是 条件语句 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 条件语句 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0190",
+      "fe-kp-0191",
+      "fe-kp-0192"
+    ]
   },
   {
     "id": "fe-lesson-069",
@@ -1821,7 +2217,12 @@
       "逻辑运算符"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 逻辑运算符与短路求值\n\n这是 逻辑运算符与短路求值 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 逻辑运算符与短路求值 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0193",
+      "fe-kp-0194"
+    ]
   },
   {
     "id": "fe-lesson-070",
@@ -1846,7 +2247,13 @@
       "for"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 循环-for\n\n这是 循环-for 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 循环-for 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0195",
+      "fe-kp-0196",
+      "fe-kp-0197"
+    ]
   },
   {
     "id": "fe-lesson-071",
@@ -1870,7 +2277,12 @@
       "while"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 循环-while与do-while\n\n这是 循环-while与do-while 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 循环-while与do-while 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0198",
+      "fe-kp-0199"
+    ]
   },
   {
     "id": "fe-lesson-072",
@@ -1895,7 +2307,12 @@
       "循环"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# break与continue\n\n这是 break与continue 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 break与continue 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0200",
+      "fe-kp-0201"
+    ]
   },
   {
     "id": "fe-lesson-073",
@@ -1919,7 +2336,12 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 模板字符串\n\n这是 模板字符串 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 模板字符串 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0202",
+      "fe-kp-0203"
+    ]
   },
   {
     "id": "fe-lesson-074",
@@ -1943,7 +2365,12 @@
       "undefined"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# null与undefined\n\n这是 null与undefined 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 null与undefined 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0204",
+      "fe-kp-0205"
+    ]
   },
   {
     "id": "fe-lesson-075",
@@ -1966,7 +2393,12 @@
       "调试技巧"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 代码调试基础\n\n这是 代码调试基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 代码调试基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0206",
+      "fe-kp-0207"
+    ]
   },
   {
     "id": "fe-lesson-076",
@@ -1989,7 +2421,12 @@
       "错误处理"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JS常见错误\n\n这是 JS常见错误 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 JS常见错误 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0208",
+      "fe-kp-0209"
+    ]
   },
   {
     "id": "fe-lesson-077",
@@ -2021,7 +2458,13 @@
       "函数表达式"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 函数声明与表达式\n\n这是 函数声明与表达式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 函数声明与表达式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0210",
+      "fe-kp-0211",
+      "fe-kp-0212"
+    ]
   },
   {
     "id": "fe-lesson-078",
@@ -2051,7 +2494,12 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 箭头函数\n\n这是 箭头函数 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 箭头函数 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0213",
+      "fe-kp-0214"
+    ]
   },
   {
     "id": "fe-lesson-079",
@@ -2083,7 +2531,13 @@
       "剩余参数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 参数处理\n\n这是 参数处理 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 参数处理 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0215",
+      "fe-kp-0216",
+      "fe-kp-0217"
+    ]
   },
   {
     "id": "fe-lesson-080",
@@ -2115,7 +2569,14 @@
       "作用域"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 返回值与作用域\n\n这是 返回值与作用域 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 返回值与作用域 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0218",
+      "fe-kp-0219",
+      "fe-kp-0220",
+      "fe-kp-0221"
+    ]
   },
   {
     "id": "fe-lesson-081",
@@ -2145,7 +2606,13 @@
       "闭包"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 闭包\n\n这是 闭包 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 闭包 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0222",
+      "fe-kp-0223",
+      "fe-kp-0224"
+    ]
   },
   {
     "id": "fe-lesson-082",
@@ -2175,7 +2642,12 @@
       "回调函数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 高阶函数\n\n这是 高阶函数 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 高阶函数 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0225",
+      "fe-kp-0226"
+    ]
   },
   {
     "id": "fe-lesson-083",
@@ -2206,7 +2678,13 @@
       "对象字面量"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 对象基础\n\n这是 对象基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 对象基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0227",
+      "fe-kp-0228",
+      "fe-kp-0229"
+    ]
   },
   {
     "id": "fe-lesson-084",
@@ -2238,7 +2716,13 @@
       "this"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 对象方法与this\n\n这是 对象方法与this 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 对象方法与this 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0230",
+      "fe-kp-0231",
+      "fe-kp-0232"
+    ]
   },
   {
     "id": "fe-lesson-085",
@@ -2270,7 +2754,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 对象解构与展开\n\n这是 对象解构与展开 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 对象解构与展开 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0233",
+      "fe-kp-0234",
+      "fe-kp-0235"
+    ]
   },
   {
     "id": "fe-lesson-086",
@@ -2300,7 +2790,13 @@
       "数组"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数组基础\n\n这是 数组基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 数组基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0236",
+      "fe-kp-0237",
+      "fe-kp-0238"
+    ]
   },
   {
     "id": "fe-lesson-087",
@@ -2335,7 +2831,14 @@
       "unshift"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数组方法\n\n这是 数组方法 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 数组方法 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0239",
+      "fe-kp-0240",
+      "fe-kp-0241",
+      "fe-kp-0242"
+    ]
   },
   {
     "id": "fe-lesson-088",
@@ -2371,7 +2874,15 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数组迭代\n\n这是 数组迭代 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 数组迭代 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0243",
+      "fe-kp-0244",
+      "fe-kp-0245",
+      "fe-kp-0246",
+      "fe-kp-0247"
+    ]
   },
   {
     "id": "fe-lesson-089",
@@ -2402,7 +2913,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数组解构与扩展\n\n这是 数组解构与扩展 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 数组解构与扩展 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0248",
+      "fe-kp-0249",
+      "fe-kp-0250"
+    ]
   },
   {
     "id": "fe-lesson-090",
@@ -2430,7 +2947,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Math与Date对象\n\n这是 Math与Date对象 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Math与Date对象 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0251",
+      "fe-kp-0252"
+    ]
   },
   {
     "id": "fe-lesson-091",
@@ -2460,7 +2982,12 @@
       "函数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 递归函数\n\n这是 递归函数 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 递归函数 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0253",
+      "fe-kp-0254"
+    ]
   },
   {
     "id": "fe-lesson-092",
@@ -2490,7 +3017,12 @@
       "函数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 立即执行函数与模块模式\n\n这是 立即执行函数与模块模式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 立即执行函数与模块模式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0255",
+      "fe-kp-0256"
+    ]
   },
   {
     "id": "fe-lesson-093",
@@ -2515,7 +3047,13 @@
       "文档对象模型"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# DOM概述\n\n这是 DOM概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 DOM概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0257",
+      "fe-kp-0258",
+      "fe-kp-0259"
+    ]
   },
   {
     "id": "fe-lesson-094",
@@ -2541,7 +3079,13 @@
       "getElementById"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 查询DOM元素\n\n这是 查询DOM元素 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 查询DOM元素 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0260",
+      "fe-kp-0261",
+      "fe-kp-0262"
+    ]
   },
   {
     "id": "fe-lesson-095",
@@ -2566,7 +3110,13 @@
       "node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 遍历DOM节点\n\n这是 遍历DOM节点 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 遍历DOM节点 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0263",
+      "fe-kp-0264",
+      "fe-kp-0265"
+    ]
   },
   {
     "id": "fe-lesson-096",
@@ -2592,7 +3142,13 @@
       "appendChild"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 创建与插入元素\n\n这是 创建与插入元素 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 创建与插入元素 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0266",
+      "fe-kp-0267",
+      "fe-kp-0268"
+    ]
   },
   {
     "id": "fe-lesson-097",
@@ -2618,7 +3174,13 @@
       "textContent"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 修改元素内容\n\n这是 修改元素内容 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 修改元素内容 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0269",
+      "fe-kp-0270",
+      "fe-kp-0271"
+    ]
   },
   {
     "id": "fe-lesson-098",
@@ -2643,7 +3205,13 @@
       "classList"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 修改元素样式\n\n这是 修改元素样式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 修改元素样式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0272",
+      "fe-kp-0273",
+      "fe-kp-0274"
+    ]
   },
   {
     "id": "fe-lesson-099",
@@ -2669,7 +3237,13 @@
       "getAttribute"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 修改元素属性\n\n这是 修改元素属性 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 修改元素属性 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0275",
+      "fe-kp-0276",
+      "fe-kp-0277"
+    ]
   },
   {
     "id": "fe-lesson-100",
@@ -2694,7 +3268,12 @@
       "replaceChild"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 删除与替换元素\n\n这是 删除与替换元素 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 删除与替换元素 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0278",
+      "fe-kp-0279"
+    ]
   },
   {
     "id": "fe-lesson-101",
@@ -2720,7 +3299,13 @@
       "事件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件监听基础\n\n这是 事件监听基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 事件监听基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0280",
+      "fe-kp-0281",
+      "fe-kp-0282"
+    ]
   },
   {
     "id": "fe-lesson-102",
@@ -2748,7 +3333,14 @@
       "keydown"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 常见事件类型\n\n这是 常见事件类型 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 常见事件类型 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0283",
+      "fe-kp-0284",
+      "fe-kp-0285",
+      "fe-kp-0286"
+    ]
   },
   {
     "id": "fe-lesson-103",
@@ -2772,7 +3364,12 @@
       "事件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件对象详解\n\n这是 事件对象详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 事件对象详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0287",
+      "fe-kp-0288"
+    ]
   },
   {
     "id": "fe-lesson-104",
@@ -2798,7 +3395,13 @@
       "事件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件冒泡与捕获\n\n这是 事件冒泡与捕获 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 事件冒泡与捕获 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0289",
+      "fe-kp-0290",
+      "fe-kp-0291"
+    ]
   },
   {
     "id": "fe-lesson-105",
@@ -2823,7 +3426,13 @@
       "事件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件委托\n\n这是 事件委托 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 事件委托 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0292",
+      "fe-kp-0293",
+      "fe-kp-0294"
+    ]
   },
   {
     "id": "fe-lesson-106",
@@ -2848,7 +3457,12 @@
       "事件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 阻止默认行为\n\n这是 阻止默认行为 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 阻止默认行为 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0295",
+      "fe-kp-0296"
+    ]
   },
   {
     "id": "fe-lesson-107",
@@ -2874,7 +3488,13 @@
       "keyup"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 键盘与鼠标事件\n\n这是 键盘与鼠标事件 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 键盘与鼠标事件 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0297",
+      "fe-kp-0298",
+      "fe-kp-0299"
+    ]
   },
   {
     "id": "fe-lesson-108",
@@ -2901,7 +3521,13 @@
       "resize"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 页面加载与滚动事件\n\n这是 页面加载与滚动事件 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 页面加载与滚动事件 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0300",
+      "fe-kp-0301",
+      "fe-kp-0302"
+    ]
   },
   {
     "id": "fe-lesson-109",
@@ -2928,7 +3554,14 @@
       "form"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单元素详解\n\n这是 表单元素详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 表单元素详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0303",
+      "fe-kp-0304",
+      "fe-kp-0305",
+      "fe-kp-0306"
+    ]
   },
   {
     "id": "fe-lesson-110",
@@ -2954,7 +3587,14 @@
       "form"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 输入类型\n\n这是 输入类型 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 输入类型 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0307",
+      "fe-kp-0308",
+      "fe-kp-0309",
+      "fe-kp-0310"
+    ]
   },
   {
     "id": "fe-lesson-111",
@@ -2981,7 +3621,14 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HTML5表单校验\n\n这是 HTML5表单校验 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 HTML5表单校验 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0311",
+      "fe-kp-0312",
+      "fe-kp-0313",
+      "fe-kp-0314"
+    ]
   },
   {
     "id": "fe-lesson-112",
@@ -3006,7 +3653,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JavaScript表单校验\n\n这是 JavaScript表单校验 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 JavaScript表单校验 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0315",
+      "fe-kp-0316",
+      "fe-kp-0317"
+    ]
   },
   {
     "id": "fe-lesson-113",
@@ -3032,7 +3685,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单事件处理\n\n这是 表单事件处理 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 表单事件处理 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0318",
+      "fe-kp-0319",
+      "fe-kp-0320"
+    ]
   },
   {
     "id": "fe-lesson-114",
@@ -3056,7 +3715,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# FormData与序列化\n\n这是 FormData与序列化 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 FormData与序列化 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0321",
+      "fe-kp-0322"
+    ]
   },
   {
     "id": "fe-lesson-115",
@@ -3080,7 +3744,12 @@
       "表单"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 下拉框与多选\n\n这是 下拉框与多选 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 下拉框与多选 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0323",
+      "fe-kp-0324"
+    ]
   },
   {
     "id": "fe-lesson-116",
@@ -3105,7 +3774,12 @@
       "表单"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 单选与复选框\n\n这是 单选与复选框 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 单选与复选框 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0325",
+      "fe-kp-0326"
+    ]
   },
   {
     "id": "fe-lesson-117",
@@ -3129,7 +3803,12 @@
       "表单"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 文件上传\n\n这是 文件上传 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 文件上传 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0327",
+      "fe-kp-0328"
+    ]
   },
   {
     "id": "fe-lesson-118",
@@ -3153,7 +3832,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 搜索框与自动补全\n\n这是 搜索框与自动补全 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 搜索框与自动补全 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0329",
+      "fe-kp-0330"
+    ]
   },
   {
     "id": "fe-lesson-119",
@@ -3177,7 +3861,12 @@
       "交互设计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Modal弹窗组件\n\n这是 Modal弹窗组件 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Modal弹窗组件 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0331",
+      "fe-kp-0332"
+    ]
   },
   {
     "id": "fe-lesson-120",
@@ -3202,7 +3891,13 @@
       "交互设计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 轮播图组件\n\n这是 轮播图组件 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 轮播图组件 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0333",
+      "fe-kp-0334",
+      "fe-kp-0335"
+    ]
   },
   {
     "id": "fe-lesson-121",
@@ -3228,7 +3923,13 @@
       "location"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 浏览器对象模型\n\n这是 浏览器对象模型 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 浏览器对象模型 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0336",
+      "fe-kp-0337",
+      "fe-kp-0338"
+    ]
   },
   {
     "id": "fe-lesson-122",
@@ -3253,7 +3954,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# window对象\n\n这是 window对象 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 window对象 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0339",
+      "fe-kp-0340",
+      "fe-kp-0341"
+    ]
   },
   {
     "id": "fe-lesson-123",
@@ -3279,7 +3986,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 定时器\n\n这是 定时器 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 定时器 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0342",
+      "fe-kp-0343",
+      "fe-kp-0344"
+    ]
   },
   {
     "id": "fe-lesson-124",
@@ -3304,7 +4017,13 @@
       "JSON.stringify"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSON数据格式\n\n这是 JSON数据格式 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 JSON数据格式 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0345",
+      "fe-kp-0346",
+      "fe-kp-0347"
+    ]
   },
   {
     "id": "fe-lesson-125",
@@ -3329,7 +4048,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# fetch基础\n\n这是 fetch基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 fetch基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0348",
+      "fe-kp-0349",
+      "fe-kp-0350"
+    ]
   },
   {
     "id": "fe-lesson-126",
@@ -3355,7 +4080,14 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Promise基础\n\n这是 Promise基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Promise基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0351",
+      "fe-kp-0352",
+      "fe-kp-0353",
+      "fe-kp-0354"
+    ]
   },
   {
     "id": "fe-lesson-127",
@@ -3381,7 +4113,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# async与await\n\n这是 async与await 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 async与await 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0355",
+      "fe-kp-0356",
+      "fe-kp-0357"
+    ]
   },
   {
     "id": "fe-lesson-128",
@@ -3406,7 +4144,13 @@
       "异常捕获"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 错误处理与异常捕获\n\n这是 错误处理与异常捕获 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 错误处理与异常捕获 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0358",
+      "fe-kp-0359",
+      "fe-kp-0360"
+    ]
   },
   {
     "id": "fe-lesson-129",
@@ -3432,7 +4176,13 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# localStorage与sessionStorage\n\n这是 localStorage与sessionStorage 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 localStorage与sessionStorage 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0361",
+      "fe-kp-0362",
+      "fe-kp-0363"
+    ]
   },
   {
     "id": "fe-lesson-130",
@@ -3456,7 +4206,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# cookie基础\n\n这是 cookie基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 cookie基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0364",
+      "fe-kp-0365"
+    ]
   },
   {
     "id": "fe-lesson-131",
@@ -3480,7 +4235,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# fetch进阶与错误处理\n\n这是 fetch进阶与错误处理 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 fetch进阶与错误处理 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0366",
+      "fe-kp-0367"
+    ]
   },
   {
     "id": "fe-lesson-132",
@@ -3506,7 +4266,13 @@
       "web安全"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CORS与同源策略\n\n这是 CORS与同源策略 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CORS与同源策略 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0368",
+      "fe-kp-0369",
+      "fe-kp-0370"
+    ]
   },
   {
     "id": "fe-lesson-133",
@@ -3531,7 +4297,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# let与const\n\n这是 let与const 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 let与const 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0371",
+      "fe-kp-0372",
+      "fe-kp-0373"
+    ]
   },
   {
     "id": "fe-lesson-134",
@@ -3556,7 +4328,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 解构赋值\n\n这是 解构赋值 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 解构赋值 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0374",
+      "fe-kp-0375",
+      "fe-kp-0376"
+    ]
   },
   {
     "id": "fe-lesson-135",
@@ -3582,7 +4360,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 展开运算符与剩余参数\n\n这是 展开运算符与剩余参数 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 展开运算符与剩余参数 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0377",
+      "fe-kp-0378",
+      "fe-kp-0379"
+    ]
   },
   {
     "id": "fe-lesson-136",
@@ -3606,7 +4390,12 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 模板字符串增强\n\n这是 模板字符串增强 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 模板字符串增强 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0380",
+      "fe-kp-0381"
+    ]
   },
   {
     "id": "fe-lesson-137",
@@ -3632,7 +4421,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# ES Module\n\n这是 ES Module 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 ES Module 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0382",
+      "fe-kp-0383",
+      "fe-kp-0384"
+    ]
   },
   {
     "id": "fe-lesson-138",
@@ -3656,7 +4451,12 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Promise链式调用\n\n这是 Promise链式调用 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Promise链式调用 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0385",
+      "fe-kp-0386"
+    ]
   },
   {
     "id": "fe-lesson-139",
@@ -3682,7 +4482,13 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# async/await进阶\n\n这是 async/await进阶 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 async/await进阶 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0387",
+      "fe-kp-0388",
+      "fe-kp-0389"
+    ]
   },
   {
     "id": "fe-lesson-140",
@@ -3709,7 +4515,14 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Map与Set\n\n这是 Map与Set 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Map与Set 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0390",
+      "fe-kp-0391",
+      "fe-kp-0392",
+      "fe-kp-0393"
+    ]
   },
   {
     "id": "fe-lesson-141",
@@ -3734,7 +4547,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Symbol与迭代器\n\n这是 Symbol与迭代器 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Symbol与迭代器 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0394",
+      "fe-kp-0395"
+    ]
   },
   {
     "id": "fe-lesson-142",
@@ -3759,7 +4577,12 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 可选链与空值合并\n\n这是 可选链与空值合并 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 可选链与空值合并 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0396",
+      "fe-kp-0397"
+    ]
   },
   {
     "id": "fe-lesson-143",
@@ -3785,7 +4608,12 @@
       "es6"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Promise静态方法\n\n这是 Promise静态方法 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Promise静态方法 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0398",
+      "fe-kp-0399"
+    ]
   },
   {
     "id": "fe-lesson-144",
@@ -3812,7 +4640,14 @@
       "js"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# class语法\n\n这是 class语法 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 class语法 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0400",
+      "fe-kp-0401",
+      "fe-kp-0402",
+      "fe-kp-0403"
+    ]
   },
   {
     "id": "fe-lesson-145",
@@ -3841,7 +4676,12 @@
       "前端开发"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端工程化概述\n\n这是 前端工程化概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端工程化概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0404",
+      "fe-kp-0405"
+    ]
   },
   {
     "id": "fe-lesson-146",
@@ -3872,7 +4712,13 @@
       "依赖"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# npm入门\n\n这是 npm入门 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 npm入门 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0406",
+      "fe-kp-0407",
+      "fe-kp-0408"
+    ]
   },
   {
     "id": "fe-lesson-147",
@@ -3901,7 +4747,12 @@
       "package.json"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# package.json详解\n\n这是 package.json详解 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 package.json详解 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0409",
+      "fe-kp-0410"
+    ]
   },
   {
     "id": "fe-lesson-148",
@@ -3931,7 +4782,13 @@
       "构建工具"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Vite入门\n\n这是 Vite入门 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Vite入门 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0411",
+      "fe-kp-0412",
+      "fe-kp-0413"
+    ]
   },
   {
     "id": "fe-lesson-149",
@@ -3962,7 +4819,13 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 模块化开发\n\n这是 模块化开发 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 模块化开发 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0414",
+      "fe-kp-0415",
+      "fe-kp-0416"
+    ]
   },
   {
     "id": "fe-lesson-150",
@@ -3993,7 +4856,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS预处理器\n\n这是 CSS预处理器 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 CSS预处理器 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0417",
+      "fe-kp-0418"
+    ]
   },
   {
     "id": "fe-lesson-151",
@@ -4024,7 +4892,12 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 构建工具对比\n\n这是 构建工具对比 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 构建工具对比 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0419",
+      "fe-kp-0420"
+    ]
   },
   {
     "id": "fe-lesson-152",
@@ -4053,7 +4926,12 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Babel与代码兼容\n\n这是 Babel与代码兼容 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Babel与代码兼容 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0421",
+      "fe-kp-0422"
+    ]
   },
   {
     "id": "fe-lesson-153",
@@ -4084,7 +4962,13 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# ESLint与Prettier\n\n这是 ESLint与Prettier 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 ESLint与Prettier 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0423",
+      "fe-kp-0424",
+      "fe-kp-0425"
+    ]
   },
   {
     "id": "fe-lesson-154",
@@ -4113,7 +4997,12 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端环境变量\n\n这是 前端环境变量 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端环境变量 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0426",
+      "fe-kp-0427"
+    ]
   },
   {
     "id": "fe-lesson-155",
@@ -4137,7 +5026,13 @@
       "版本控制"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Git概述\n\n这是 Git概述 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Git概述 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0428",
+      "fe-kp-0429",
+      "fe-kp-0430"
+    ]
   },
   {
     "id": "fe-lesson-156",
@@ -4165,7 +5060,14 @@
       "clone"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Git基本操作\n\n这是 Git基本操作 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Git基本操作 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0431",
+      "fe-kp-0432",
+      "fe-kp-0433",
+      "fe-kp-0434"
+    ]
   },
   {
     "id": "fe-lesson-157",
@@ -4191,7 +5093,13 @@
       "checkout"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Git分支管理\n\n这是 Git分支管理 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Git分支管理 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0435",
+      "fe-kp-0436",
+      "fe-kp-0437"
+    ]
   },
   {
     "id": "fe-lesson-158",
@@ -4218,7 +5126,13 @@
       "push"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Git远程仓库\n\n这是 Git远程仓库 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Git远程仓库 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0438",
+      "fe-kp-0439",
+      "fe-kp-0440"
+    ]
   },
   {
     "id": "fe-lesson-159",
@@ -4242,7 +5156,13 @@
       "仓库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub仓库操作\n\n这是 GitHub仓库操作 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 GitHub仓库操作 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0441",
+      "fe-kp-0442",
+      "fe-kp-0443"
+    ]
   },
   {
     "id": "fe-lesson-160",
@@ -4266,7 +5186,13 @@
       "部署"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub Pages部署\n\n这是 GitHub Pages部署 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 GitHub Pages部署 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0444",
+      "fe-kp-0445",
+      "fe-kp-0446"
+    ]
   },
   {
     "id": "fe-lesson-161",
@@ -4289,7 +5215,12 @@
       "工作流"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Git工作流\n\n这是 Git工作流 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Git工作流 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0447",
+      "fe-kp-0448"
+    ]
   },
   {
     "id": "fe-lesson-162",
@@ -4314,7 +5245,12 @@
       "协作"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub协作\n\n这是 GitHub协作 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 GitHub协作 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0449",
+      "fe-kp-0450"
+    ]
   },
   {
     "id": "fe-lesson-163",
@@ -4337,7 +5273,12 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# .gitignore与配置\n\n这是 .gitignore与配置 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 .gitignore与配置 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0451",
+      "fe-kp-0452"
+    ]
   },
   {
     "id": "fe-lesson-164",
@@ -4362,7 +5303,13 @@
       "部署"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub Actions入门\n\n这是 GitHub Actions入门 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 GitHub Actions入门 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0453",
+      "fe-kp-0454",
+      "fe-kp-0455"
+    ]
   },
   {
     "id": "fe-lesson-165",
@@ -4390,7 +5337,12 @@
       "项目实战"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 项目规划与设计\n\n这是 项目规划与设计 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 项目规划与设计 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0456",
+      "fe-kp-0457"
+    ]
   },
   {
     "id": "fe-lesson-166",
@@ -4419,7 +5371,12 @@
       "个人主页"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 个人主页项目\n\n这是 个人主页项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 个人主页项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0458",
+      "fe-kp-0459"
+    ]
   },
   {
     "id": "fe-lesson-167",
@@ -4448,7 +5405,12 @@
       "todo应用"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Todo List项目\n\n这是 Todo List项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 Todo List项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0460",
+      "fe-kp-0461"
+    ]
   },
   {
     "id": "fe-lesson-168",
@@ -4478,7 +5440,12 @@
       "筛选应用"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 搜索与筛选项目\n\n这是 搜索与筛选项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 搜索与筛选项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0462",
+      "fe-kp-0463"
+    ]
   },
   {
     "id": "fe-lesson-169",
@@ -4507,7 +5474,12 @@
       "画廊应用"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 图片画廊项目\n\n这是 图片画廊项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 图片画廊项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0464",
+      "fe-kp-0465"
+    ]
   },
   {
     "id": "fe-lesson-170",
@@ -4536,7 +5508,12 @@
       "表单应用"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单应用项目\n\n这是 表单应用项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 表单应用项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0466",
+      "fe-kp-0467"
+    ]
   },
   {
     "id": "fe-lesson-171",
@@ -4565,7 +5542,12 @@
       "电商页面"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 商品列表项目\n\n这是 商品列表项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 商品列表项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0468",
+      "fe-kp-0469"
+    ]
   },
   {
     "id": "fe-lesson-172",
@@ -4595,7 +5577,13 @@
       "登录系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 登录注册系统\n\n这是 登录注册系统 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 登录注册系统 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0470",
+      "fe-kp-0471",
+      "fe-kp-0472"
+    ]
   },
   {
     "id": "fe-lesson-173",
@@ -4624,7 +5612,12 @@
       "仪表盘"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 仪表盘项目\n\n这是 仪表盘项目 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 仪表盘项目 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0473",
+      "fe-kp-0474"
+    ]
   },
   {
     "id": "fe-lesson-174",
@@ -4654,7 +5647,13 @@
       "工程化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件化思维\n\n这是 组件化思维 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 组件化思维 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0475",
+      "fe-kp-0476",
+      "fe-kp-0477"
+    ]
   },
   {
     "id": "fe-lesson-175",
@@ -4684,7 +5683,12 @@
       "响应式布局"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式作品集\n\n这是 响应式作品集 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 响应式作品集 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0478",
+      "fe-kp-0479"
+    ]
   },
   {
     "id": "fe-lesson-176",
@@ -4715,7 +5719,13 @@
       "项目实战"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 代码调试与优化\n\n这是 代码调试与优化 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 代码调试与优化 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0480",
+      "fe-kp-0481",
+      "fe-kp-0482"
+    ]
   },
   {
     "id": "fe-lesson-177",
@@ -4745,7 +5755,13 @@
       "项目实战"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 性能优化基础\n\n这是 性能优化基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 性能优化基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0483",
+      "fe-kp-0484",
+      "fe-kp-0485"
+    ]
   },
   {
     "id": "fe-lesson-178",
@@ -4775,7 +5791,13 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 前端可访问性\n\n这是 前端可访问性 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 前端可访问性 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0486",
+      "fe-kp-0487",
+      "fe-kp-0488"
+    ]
   },
   {
     "id": "fe-lesson-179",
@@ -4804,7 +5826,12 @@
       "html5"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SEO基础\n\n这是 SEO基础 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 SEO基础 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0489",
+      "fe-kp-0490"
+    ]
   },
   {
     "id": "fe-lesson-180",
@@ -4833,7 +5860,12 @@
       "css3"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 跨浏览器兼容\n\n这是 跨浏览器兼容 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 跨浏览器兼容 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0491",
+      "fe-kp-0492"
+    ]
   },
   {
     "id": "fe-lesson-181",
@@ -4862,7 +5894,12 @@
       "github pages"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 部署与上线\n\n这是 部署与上线 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 部署与上线 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0493",
+      "fe-kp-0494"
+    ]
   },
   {
     "id": "fe-lesson-182",
@@ -4891,6 +5928,11 @@
       "前端学习"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 持续学习与进阶\n\n这是 持续学习与进阶 的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n- 常见问题\n\n## 总结\n\n本章介绍了 持续学习与进阶 的核心知识。",
+    "knowledgePoints": [
+      "fe-kp-0495",
+      "fe-kp-0496"
+    ]
   }
 ]
